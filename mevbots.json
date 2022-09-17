@@ -1,1557 +1,1556 @@
 [
-  [],
-  [
-    "0xeb4c5ab9b36437f969888be99af42fc9087005a5",
-    "AMB Flashbot Helper",
-    "0 Ether",
-    "1,855"
-  ],
-  [
-    "0x9799b475dec92bd99bbdd943013325c36157f383",
-    "Fund: 0x979...383",
-    "7.51203295 Ether",
-    "134,743"
-  ],
-  [
-    "0x0000000000036414940324055c43e75f56b7d016",
-    "MEV Bot: 0x000...016",
-    "0 Ether",
-    "6,276"
-  ],
-  [
-    "0x0000000009cb38fb8a1bbb8ada23c8261118f019",
-    "MEV Bot: 0x000...019",
-    "0 Ether",
-    "556"
-  ],
-  [
-    "0x000000000085359dbc0eb45911e5f3f7a532a07e",
-    "MEV Bot: 0x000...07E",
-    "0.0000004 Ether",
-    "3,166"
-  ],
-  [
-    "0x000000000000084e91743124a982076c59f10084",
-    "MEV Bot: 0x000...084",
-    "0 Ether",
-    "251,005"
-  ],
-  [
-    "0x000000000a08a7ca00e4239dd97d8542c51b9086",
-    "MEV Bot: 0x000...086",
-    "0 Ether",
-    "304"
-  ],
-  [
-    "0x0000007c68390193776e8b44df3b698d311070b9",
-    "MEV Bot: 0x000...0B9",
-    "0 Ether",
-    "4,292"
-  ],
-  [
-    "0x00000000000123685885532dcb685c442dc83126",
-    "MEV Bot: 0x000...126",
-    "1 wei",
-    "4,775"
-  ],
-  [
-    "0x00000000003eea204b86b877632d9ee88b179150",
-    "MEV Bot: 0x000...150",
-    "0 Ether",
-    "1,296"
-  ],
-  [
-    "0x000000004b614af95d1bb7c236a3aa800b722173",
-    "MEV Bot: 0x000...173",
-    "0 Ether",
-    "1,478"
-  ],
-  [
-    "0x0000000000d41c96294ccdac8612bdfe29c641af",
-    "MEV Bot: 0x000...1af",
-    "0 Ether",
-    "59,454"
-  ],
-  [
-    "0x0000000084f794716fa5485d1424b8bd562291f9",
-    "MEV Bot: 0x000...1f9",
-    "0 Ether",
-    "136"
-  ],
-  [
-    "0x00000000000c66b8cb2836c3620f88a9c812d208",
-    "MEV Bot: 0x000...208",
-    "0 Ether",
-    "982"
-  ],
-  [
-    "0x0000000000b92ac90d898eba87fa5f2483f32234",
-    "MEV Bot: 0x000...234",
-    "0 Ether",
-    "2,415"
-  ],
-  [
-    "0x00000000000a47b1298f18cf67de547bbe0d723f",
-    "MEV Bot: 0x000...23F",
-    "0 Ether",
-    "28,809"
-  ],
-  [
-    "0x0000000000a84d1a9b0063a910315c7ffa9cd248",
-    "MEV Bot: 0x000...248",
-    "65.48082574 Ether",
-    "3,321"
-  ],
-  [
-    "0x0000004f2f05a8223b89edb700848d70970742bf",
-    "MEV Bot: 0x000...2bF",
-    "0 Ether",
-    "8,551"
-  ],
-  [
-    "0x000000000dfde7deaf24138722987c9a6991e2d4",
-    "MEV Bot: 0x000...2D4",
-    "19.97012965 Ether",
-    "374,571"
-  ],
-  [
-    "0x00000000f6e788341c1acb3c2d49fa9263b8a2f7",
-    "MEV Bot: 0x000...2F7",
-    "0 Ether",
-    "316"
-  ],
-  [
-    "0x0000000050fd1220ecf21d84687ebad194fd537f",
-    "MEV Bot: 0x000...37F",
-    "0 Ether",
-    "391"
-  ],
-  [
-    "0x000000000b8a22fdae0233faa785df7974ff0391",
-    "MEV Bot: 0x000...391",
-    "18.76547758 Ether",
-    "65"
-  ],
-  [
-    "0x0000000000710a9c1f6db5f504be77ffb3b583ec",
-    "MEV Bot: 0x000...3ec",
-    "658 wei",
-    "3,391"
-  ],
-  [
-    "0x000000004b5ad44f70781462233d177d32d993f1",
-    "MEV Bot: 0x000...3f1",
-    "0 Ether",
-    "208"
-  ],
-  [
-    "0x0000000000208d4805eb97db796e74b48547445d",
-    "MEV Bot: 0x000...45d",
-    "0 Ether",
-    "2,158"
-  ],
-  [
-    "0x000000000000660def84e69995117c0176ba446e",
-    "MEV Bot: 0x000...46E",
-    "41.36860359 Ether",
-    "2,667"
-  ],
-  [
-    "0x000000000003c42172c0bdd69d6afb6b0bf4b488",
-    "MEV Bot: 0x000...488",
-    "0 Ether",
-    "1,362"
-  ],
-  [
-    "0x000000000025d4386f7fb58984cbe110aee3a4c4",
-    "MEV Bot: 0x000...4c4",
-    "115.11042279 Ether",
-    "153,119"
-  ],
-  [
-    "0x0000000096b674bb0ea9c74c28be782bb48724de",
-    "MEV Bot: 0x000...4de",
-    "0 Ether",
-    "134"
-  ],
-  [
-    "0x000000000000f0bc41c73af48f022f8c27b5350e",
-    "MEV Bot: 0x000...50e",
-    "0 Ether",
-    "421"
-  ],
-  [
-    "0x0000000000cbba74c365869ae50225f5596ad59c",
-    "MEV Bot: 0x000...59c",
-    "0 Ether",
-    "4,332"
-  ],
-  [
-    "0x00000000b7ca7e12dcc72290d1fe47b2ef14c607",
-    "MEV Bot: 0x000...607",
-    "0 Ether",
-    "66,231"
-  ],
-  [
-    "0x00000000726422a6fecb4759b44d47e48cf746aa",
-    "MEV Bot: 0x000...6aa",
-    "0 Ether",
-    "29,076"
-  ],
-  [
-    "0x000000dce08f643423c0bec02b0799e37f076781",
-    "MEV Bot: 0x000...781",
-    "0 Ether",
-    "131"
-  ],
-  [
-    "0x00000000000080c886232e9b7ebbfb942b5987aa",
-    "MEV Bot: 0x000...7AA",
-    "9.64679912 Ether",
-    "77,590"
-  ],
-  [
-    "0x00000000000062f06c7007906b2a4034fa5c4818",
-    "MEV Bot: 0x000...818",
-    "0 Ether",
-    "3,789"
-  ],
-  [
-    "0x000000005736775feb0c8568e7dee77222a26880",
-    "MEV Bot: 0x000...880",
-    "0 Ether",
-    "108,651"
-  ],
-  [
-    "0x00000000c2cf7648c169b25ef1c217864bfa38cc",
-    "MEV Bot: 0x000...8cC",
-    "0 Ether",
-    "219,981"
-  ],
-  [
-    "0x0000000000d9455cc7eb92d06e00582a982f68fe",
-    "MEV Bot: 0x000...8fe",
-    "0.03686734 Ether",
-    "27,697"
-  ],
-  [
-    "0x00000000002d383933aa1609f11d0afa4d5ea90a",
-    "MEV Bot: 0x000...90A",
-    "0.02862217 Ether",
-    "7,016"
-  ],
-  [
-    "0x000000000035b5e5ad9019092c665357240f594e",
-    "MEV Bot: 0x000...94e",
-    "55.79520155 Ether",
-    "241,892"
-  ],
-  [
-    "0x00000000116579a5ba59e2f22e77ede26809b970",
-    "MEV Bot: 0x000...970",
-    "0 Ether",
-    "12,724"
-  ],
-  [
-    "0x0000000099cb7fc48a935bceb9f05bbae54e8987",
-    "MEV Bot: 0x000...987",
-    "10.62364759 Ether",
-    "72,460"
-  ],
-  [
-    "0x00000000005b84b558de194b242f92b11f1469ca",
-    "MEV Bot: 0x000...9CA",
-    "0 Ether",
-    "352"
-  ],
-  [
-    "0x0000000089341e263b85d84a0eea39f47c37a9d2",
-    "MEV Bot: 0x000...9d2",
-    "0 Ether",
-    "271,753"
-  ],
-  [
-    "0x00000000000f45b418291a68f2646d0b1a303a1c",
-    "MEV Bot: 0x000...A1C",
-    "0 Ether",
-    "668"
-  ],
-  [
-    "0x00000000003b3cc22af3ae1eac0440bcee416b40",
-    "MEV Bot: 0x000...B40",
-    "0 Ether",
-    "285,146"
-  ],
-  [
-    "0x00000000500e2fece27a7600435d0c48d64e0c00",
-    "MEV Bot: 0x000...C00",
-    "0 Ether",
-    "18,300"
-  ],
-  [
-    "0x0000000000e4cc48a5427ca0b9ed03b5bc501c97",
-    "MEV Bot: 0x000...C97",
-    "0 Ether",
-    "7,441"
-  ],
-  [
-    "0x0000000dc0cc877153e7e93870ad2a3382e99ca0",
-    "MEV Bot: 0x000...ca0",
-    "0 Ether",
-    "90"
-  ],
-  [
-    "0x000000000042c71e9b847fb1533270360a7b2cbf",
-    "MEV Bot: 0x000...Cbf",
-    "0.0210951 Ether",
-    "6,127"
-  ],
-  [
-    "0x0000000765306855601b70d930ac579b23a18d44",
-    "MEV Bot: 0x000...D44",
-    "0 Ether",
-    "206"
-  ],
-  [
-    "0x0000000000005117dd3a72e64a705198753fdd54",
-    "MEV Bot: 0x000...d54",
-    "0 Ether",
-    "197,686"
-  ],
-  [
-    "0x000000a60073b3ab5258ec72f46c002ad912ed76",
-    "MEV Bot: 0x000...d76",
-    "0 Ether",
-    "3,001"
-  ],
-  [
-    "0x000000090629d24e9ebbd5bb2a714f21ecd6ed9a",
-    "MEV Bot: 0x000...d9a",
-    "0 Ether",
-    "138"
-  ],
-  [
-    "0x00000000009c7f96284472465e1b5c44e8cfcda1",
-    "MEV Bot: 0x000...DA1",
-    "0 Ether",
-    "560"
-  ],
-  [
-    "0x00000000000e1d0dabf7b7c7b68866fc940d0db8",
-    "MEV Bot: 0x000...Db8",
-    "1 wei",
-    "5,376"
-  ],
-  [
-    "0x0000000000590b74eb97457bf7b3ff6d63c6fde2",
-    "MEV Bot: 0x000...de2",
-    "0 Ether",
-    "554"
-  ],
-  [
-    "0x00000000032962b51589768828ad878876299e14",
-    "MEV Bot: 0x000...e14",
-    "0 Ether",
-    "8,990"
-  ],
-  [
-    "0x00000000008c4fb1c916e0c88fd4cc402d935e7d",
-    "MEV Bot: 0x000...e7D",
-    "0 Ether",
-    "55,034"
-  ],
-  [
-    "0x000000000000006f6502b7f2bbac8c30a3f67e9a",
-    "MEV Bot: 0x000...E9a",
-    "0 Ether",
-    "1,438,193"
-  ],
-  [
-    "0x0000000000000eb4ec62758aae93400b3e5f7f18",
-    "MEV Bot: 0x000...f18",
-    "97.51520968 Ether",
-    "102,087"
-  ],
-  [
-    "0x0000000000007f150bd6f54c40a34d7c3d5e9f56",
-    "MEV Bot: 0x000...f56",
-    "884.62049506 Ether",
-    "2,237,064"
-  ],
-  [
-    "0x000000000755567f4924bf483bdf5a53ebc8ef64",
-    "MEV Bot: 0x000...f64",
-    "0 Ether",
-    "13,237"
-  ],
-  [
-    "0x0000000000a18ba8ff557c143927bd3b2593bf7a",
-    "MEV Bot: 0x000...F7A",
-    "0.00000016 Ether",
-    "1,270"
-  ],
-  [
-    "0x0000000000126f0ba49fbb414edc7041d1166ff4",
-    "MEV Bot: 0x000...FF4",
-    "0 Ether",
-    "37"
-  ],
-  [
-    "0x00000081c57cbc967248bea482c417207e84cffb",
-    "MEV Bot: 0x000...ffb",
-    "0 Ether",
-    "3,481"
-  ],
-  [
-    "0x0000e0ca771e21bd00057f54a68c30d400000000",
-    "MEV Bot: 0x0000E0C...000",
-    "32.55720579 Ether",
-    "18,256"
-  ],
-  [
-    "0x0055ae46f700bcc53b1b00483d64000d47007200",
-    "MEV Bot: 0x005...200",
-    "0 Ether",
-    "383"
-  ],
-  [
-    "0x00f3f73f07d9e9e797b82b00536e010018000000",
-    "MEV Bot: 0x00f3f...000",
-    "0 Ether",
-    "30"
-  ],
-  [
-    "0x018d5c4783f5317815f6e8168942a12adde3cd3c",
-    "MEV Bot: 0x018...D3C",
-    "0 Ether",
-    "37,590"
-  ],
-  [
-    "0x01a1527a5127f721a4c9ff955c93f6faef2f6deb",
-    "MEV Bot: 0x01a...deb",
-    "0 Ether",
-    "11,035"
-  ],
-  [
-    "0x01ba6660c1bf555cc1455a961dc8b4e5a95b0159",
-    "MEV Bot: 0x01b...159",
-    "0 Ether",
-    "392"
-  ],
-  [
-    "0x030d1cad9f917cab7356b6a266f8ea0b31093ae1",
-    "MEV Bot: 0x030...AE1",
-    "0 Ether",
-    "7"
-  ],
-  [
-    "0x04eb85ad427e7e6b3ffb67e049872210fd3fbae9",
-    "MEV Bot: 0x04e...aE9",
-    "0 Ether",
-    "3,786"
-  ],
-  [
-    "0x05e31b564e800d7da3389b1fb37835fc4bdb6fbf",
-    "MEV Bot: 0x05e...FBf",
-    "0 Ether",
-    "44"
-  ],
-  [
-    "0x07197a25bf7297c2c41dd09a79160d05b6232bcf",
-    "MEV Bot: 0x071...BcF",
-    "0 Ether",
-    "6,680"
-  ],
-  [
-    "0x098fdb32ace942edc1355c0a78af2332b1ec6fef",
-    "MEV Bot: 0x098...Fef",
-    "0 Ether",
-    "443"
-  ],
-  [
-    "0x0a482d6499a3ea0d01bc60e42e6f1774ca7faf60",
-    "MEV Bot: 0x0A4...f60",
-    "0.00001385 Ether",
-    "69"
-  ],
-  [
-    "0x0bd30c34e4524df28d368d00c2feb534696d0bb7",
-    "MEV Bot: 0x0bd...bb7",
-    "0 Ether",
-    "39"
-  ],
-  [
-    "0x0c3de458b51a11da7d4616f42f66c861e3859d3e",
-    "MEV Bot: 0x0c3...D3E",
-    "1 Ether",
-    "12,452"
-  ],
-  [
-    "0x0eae044f00b0af300500f090ea00027097d03000",
-    "MEV Bot: 0x0ea...000",
-    "0.08443557 Ether",
-    "57,927"
-  ],
-  [
-    "0x0ef8b4525c69bfa7bdece3ab09f95bbf0944b783",
-    "MEV Bot: 0x0ef...783",
-    "0.34197004 Ether",
-    "473"
-  ],
-  [
-    "0x1316abcc2ab4ce7e937cd27707c54f6f6688a91b",
-    "MEV Bot: 0x131...91b",
-    "0 Ether",
-    "595"
-  ],
-  [
-    "0x195acb4ef662cbae48db6a26c88b603c65090803",
-    "MEV Bot: 0x195...803",
-    "0 Ether",
-    "34"
-  ],
-  [
-    "0x1bea639199d4d37f4307b0e4441f4479bd9970e9",
-    "MEV Bot: 0x1Be...0E9",
-    "0 Ether",
-    "49"
-  ],
-  [
-    "0x1d6e8bac6ea3730825bde4b005ed7b2b39a2932d",
-    "MEV Bot: 0x1d6...32d",
-    "0 Ether",
-    "275,649"
-  ],
-  [
-    "0x1ebadd3e0bb6d4e9edb574c5f0b0edc23c815d95",
-    "MEV Bot: 0x1Eb...D95",
-    "0 Ether",
-    "158"
-  ],
-  [
-    "0x2242a7461c7bbd9202a97e967a0fbb8336ac863d",
-    "MEV Bot: 0x224...63d",
-    "0 Ether",
-    "2,309"
-  ],
-  [
-    "0x294e453c3f5758e562aa13c76ec376c70c0bdbad",
-    "MEV Bot: 0x294...bAD",
-    "0 Ether",
-    "3,203"
-  ],
-  [
-    "0x2ad9142941514c9550fd5d1b20baf9cb93a86847",
-    "MEV Bot: 0x2AD...847",
-    "0 Ether",
-    "379"
-  ],
-  [
-    "0x2d0f3b2abe9d61a21812023bb28cd2da7c3f30b9",
-    "MEV Bot: 0x2d0...0b9",
-    "0 Ether",
-    "236"
-  ],
-  [
-    "0x2f1d79860cf6ea3f4b3b734153b52815773c0638",
-    "MEV Bot: 0x2f1...638",
-    "0 Ether",
-    "27,704"
-  ],
-  [
-    "0x33f4c006e6541cbaa3179b0978143e3ac3d70220",
-    "MEV Bot: 0x33F...220",
-    "0 Ether",
-    "359"
-  ],
-  [
-    "0x3445c9ee4d17ba579061beec736f81b6d96754cd",
-    "MEV Bot: 0x344...4cD",
-    "0 Ether",
-    "2,387"
-  ],
-  [
-    "0x35137b4c325c115a704cd23d5f2faf8777370d06",
-    "MEV Bot: 0x351...d06",
-    "0 Ether",
-    "18"
-  ],
-  [
-    "0x3700006fbcde59a8b3af2c134d00e9530000e379",
-    "MEV Bot: 0x370...379",
-    "0 Ether",
-    "165,121"
-  ],
-  [
-    "0x3773e380e06c6ec156116f77021862c45c6022bb",
-    "MEV Bot: 0x377...2bb",
-    "0 Ether",
-    "477"
-  ],
-  [
-    "0x39dbb8f23001445e43c269f1246809091be7da60",
-    "MEV Bot: 0x39d...A60",
-    "0 Ether",
-    "115"
-  ],
-  [
-    "0x39ee28ec61a63147fc822b9e40757be530eefa65",
-    "MEV Bot: 0x39e...a65",
-    "0 Ether",
-    "23"
-  ],
-  [
-    "0x3af4ea5614f21e23b2398a62e1e20fe3d8b2fb7f",
-    "MEV Bot: 0x3AF...B7F",
-    "0 Ether",
-    "1,549"
-  ],
-  [
-    "0x3b654e30633d44b05847aaf65cf1ad0c92bed248",
-    "MEV Bot: 0x3B6...248",
-    "0 Ether",
-    "759"
-  ],
-  [
-    "0x4024fe8187f0f31e72914a7d5014b29a88f07747",
-    "MEV Bot: 0x402...747",
-    "0 Ether",
-    "8,788"
-  ],
-  [
-    "0x4083d4ef32631ed3394cc1b11efb03ceebcd2f6c",
-    "MEV Bot: 0x408...F6C",
-    "0.00077 Ether",
-    "239"
-  ],
-  [
-    "0x40e645bc65035286de2009d717365d9640cc2b09",
-    "MEV Bot: 0x40E...b09",
-    "0 Ether",
-    "331"
-  ],
-  [
-    "0x42b2c65db7f9e3b6c26bc6151ccf30cce0fb99ea",
-    "MEV Bot: 0x42B...9EA",
-    "0 Ether",
-    "3,429"
-  ],
-  [
-    "0x43f2dfc9f99eba7a52fdffe7f3ea2182324e8896",
-    "MEV Bot: 0x43F...896",
-    "0 Ether",
-    "3,271"
-  ],
-  [
-    "0x44ccdcd59984848a749e9f999b08f2b68153e123",
-    "MEV Bot: 0x44c...123",
-    "0 Ether",
-    "739"
-  ],
-  [
-    "0x456804481f237bbb1b0baf5bd606d481ad672048",
-    "MEV Bot: 0x456...048",
-    "0 Ether",
-    "47"
-  ],
-  [
-    "0x45716d9eddbc332df1d42b9f540fbebed671b20f",
-    "MEV Bot: 0x457...20F",
-    "0 Ether",
-    "31,070"
-  ],
-  [
-    "0x467c197bf259fe46232c142acda389fc0795c7f4",
-    "MEV Bot: 0x467...7f4",
-    "0 Ether",
-    "662"
-  ],
-  [
-    "0x46aa587c29aef0c5ca51e8e5716dc1be822d6f46",
-    "MEV Bot: 0x46a...F46",
-    "0.03541051 Ether",
-    "1,143"
-  ],
-  [
-    "0x46c4128981525aa446e02ffb2ff762f1d6a49170",
-    "MEV Bot: 0x46C...170",
-    "0 Ether",
-    "19,151"
-  ],
-  [
-    "0x49307d775728daf1d4736ab762de0cefd035e323",
-    "MEV Bot: 0x493...323",
-    "0 Ether",
-    "78,326"
-  ],
-  [
-    "0x498e84899558545a0f6d4036bdb3a3842cf9b6d0",
-    "MEV Bot: 0x498...6D0",
-    "0 Ether",
-    "7,222"
-  ],
-  [
-    "0x499dd900f800fd0a2ed300006000a57f00fa009b",
-    "MEV Bot: 0x499...09b",
-    "0 Ether",
-    "10,932"
-  ],
-  [
-    "0x4a137fd5e7a256ef08a7de531a17d0be0cc7b6b6",
-    "MEV Bot: 0x4a1...6b6",
-    "0.19210183 Ether",
-    "141,709"
-  ],
-  [
-    "0x4a47615f0b239063992dddbee6844033c172f2b6",
-    "MEV Bot: 0x4A4...2B6",
-    "0 Ether",
-    "171"
-  ],
-  [
-    "0x4cadecc51feb5c1f6d9a902ecc817a1b8c2246f9",
-    "MEV Bot: 0x4ca\u20266F9",
-    "3.82714038 Ether",
-    "360"
-  ],
-  [
-    "0x4cb18386e5d1f34dc6eea834bf3534a970a3f8e7",
-    "MEV Bot: 0x4Cb...8e7",
-    "0 Ether",
-    "732,871"
-  ],
-  [
-    "0x4d246be90c2f36730bb853ad41d0a189061192d3",
-    "MEV Bot: 0x4d2...2d3",
-    "0 Ether",
-    "695,376"
-  ],
-  [
-    "0x4d638adb8c07a78655e9ae88641c4202774e6584",
-    "MEV Bot: 0x4d6...584",
-    "0 Ether",
-    "20,335"
-  ],
-  [
-    "0x4fce027bc57d7530b84527f4848983cece4df15e",
-    "MEV Bot: 0x4Fc...15e",
-    "2.39395179 Ether",
-    "4,769"
-  ],
-  [
-    "0x507888e987257a8dde6f8afa46375cefe2cbf504",
-    "MEV Bot: 0x507...504",
-    "2.0036789 Ether",
-    "2,688"
-  ],
-  [
-    "0x51399b32cd0186bb32230e24167489f3b2f47870",
-    "MEV Bot: 0x513...870",
-    "0 Ether",
-    "189,821"
-  ],
-  [
-    "0x5492a302991751fd6b5c051d85be48acc9fec4d3",
-    "MEV Bot: 0x549...4D3",
-    "1.34524576 Ether",
-    "1,419"
-  ],
-  [
-    "0x553eea17185e5ae6bb72f9528a4c3fc1a844b859",
-    "MEV Bot: 0x553...859",
-    "0 Ether",
-    "1,109"
-  ],
-  [
-    "0x55eb58655f8202ff839487886fedba2a1eb7b2d7",
-    "MEV Bot: 0x55e...2d7",
-    "0 Ether",
-    "16,942"
-  ],
-  [
-    "0x563bdabaa8846ec445b25bfbed88d160890a02ed",
-    "MEV Bot: 0x563...2ed",
-    "0.00098134 Ether",
-    "20,674"
-  ],
-  [
-    "0x57c1e0c2adf6eecdb135bcf9ec5f23b319be2c94",
-    "MEV Bot: 0x57C...c94",
-    "76.8827226 Ether",
-    "20,000"
-  ],
-  [
-    "0x5aa3393e361c2eb342408559309b3e873cd876d6",
-    "MEV Bot: 0x5AA...6d6",
-    "102.51741584 Ether",
-    "90,879"
-  ],
-  [
-    "0x5cacdfb236e4bfdd5f9ed992a998cc99aed5b4d9",
-    "MEV Bot: 0x5ca...4d9",
-    "0 Ether",
-    "167"
-  ],
-  [
-    "0x5e767aa6204ece873c7d9405c4bca49cd3e0bf39",
-    "MEV Bot: 0x5E7...F39",
-    "0 Ether",
-    "6,787"
-  ],
-  [
-    "0x5f05a1e43e738efcd5227e65660a874050dda64c",
-    "MEV Bot: 0x5F0...64C",
-    "0 Ether",
-    "420"
-  ],
-  [
-    "0x60a1d9d5f6346aae41a18b08dcd0be48a74a3021",
-    "MEV Bot: 0x60a...021",
-    "6.03514734 Ether",
-    "2,481"
-  ],
-  [
-    "0x634ccb596def40fad8dde810a8f98d286a2a5b27",
-    "MEV Bot: 0x634...b27",
-    "0 Ether",
-    "355"
-  ],
-  [
-    "0x66f049111958809841bbe4b81c034da2d953aa0c",
-    "MEV Bot: 0x66f...A0c",
-    "0 Ether",
-    "27,130"
-  ],
-  [
-    "0x689209519e78947d52b862748e059fad1238d689",
-    "MEV Bot: 0x689...689",
-    "0 Ether",
-    "880"
-  ],
-  [
-    "0x696713eaba8d603bab45e2c5820ef4c175c7a5e8",
-    "MEV Bot: 0x696...5e8",
-    "0 Ether",
-    "65"
-  ],
-  [
-    "0x6af1a16fde7346e7729fa921ad2ddf6a462061e2",
-    "MEV Bot: 0x6aF...1e2",
-    "0 Ether",
-    "16,762"
-  ],
-  [
-    "0x6b58007b960016b2f559dbfd809ac4dcb1febdfe",
-    "MEV Bot: 0x6B5...Dfe",
-    "1 wei",
-    "753"
-  ],
-  [
-    "0x6d660980b00c3405c2dec173cf2259b15572b9b5",
-    "MEV Bot: 0x6d6...9B5",
-    "0 Ether",
-    "2,205"
-  ],
-  [
-    "0x6ed51e4acca56d74076cdeb58337225b8aaf4abc",
-    "MEV Bot: 0x6ED...ABC",
-    "6.43422509 Ether",
-    "525"
-  ],
-  [
-    "0x6ee33c4a192118ea664612aec6f7b6e4aef78b87",
-    "MEV Bot: 0x6eE...b87",
-    "0 Ether",
-    "1,553"
-  ],
-  [
-    "0x70d772361eb567eb45da56e147e5224e2abedeba",
-    "MEV Bot: 0x70d...EbA",
-    "1.5 Ether",
-    "120"
-  ],
-  [
-    "0x72bd67d7406d0c490b0ad0b8968f4beccdd494db",
-    "MEV Bot: 0x72b...4dB",
-    "0 Ether",
-    "220"
-  ],
-  [
-    "0x731ea79a1b2b90683507da2aab498bd8ff8f7ff1",
-    "MEV Bot: 0x731...ff1",
-    "0 Ether",
-    "6,286"
-  ],
-  [
-    "0x73f78d23370386cbcecd24ab3fa5da63be80f0e8",
-    "MEV Bot: 0x73F...0e8",
-    "0.30991014 Ether",
-    "316"
-  ],
-  [
-    "0x7436a14a8dbf6eba14f114cb71a3b6d4527b222a",
-    "MEV Bot: 0x743...22a",
-    "0 Ether",
-    "1,231"
-  ],
-  [
-    "0x74d8353a2ce55b41828075f406b0e42001bcd00b",
-    "MEV Bot: 0x74D...00b",
-    "1.00120272 Ether",
-    "1,499"
-  ],
-  [
-    "0x761d80987a36fc271875ea4de17539e8c82ae51d",
-    "MEV Bot: 0x761...51D",
-    "38.12746663 Ether",
-    "1,524"
-  ],
-  [
-    "0x7719494eb8f3ca261f5c806d754853dc5ce2edf7",
-    "MEV Bot: 0x771...Df7",
-    "3.47413995 Ether",
-    "566"
-  ],
-  [
-    "0x7777777580290cede6e2121b846023fa1a1e4978",
-    "MEV Bot: 0x777...978",
-    "0 Ether",
-    "10,701"
-  ],
-  [
-    "0x77b285fbdb277e53ed29c9dda7c0aa6f2591b09d",
-    "MEV Bot: 0x77b...09d",
-    "0 Ether",
-    "924"
-  ],
-  [
-    "0x793ff66b5435a6de9d6d7e70c4c68522e8cd24e1",
-    "MEV Bot: 0x793...4E1",
-    "0 Ether",
-    "7,231"
-  ],
-  [
-    "0x79dd6397b1ce40d6ac14f361ff9f9836d0cff6e1",
-    "MEV Bot: 0x79D...6e1",
-    "0 Ether",
-    "735"
-  ],
-  [
-    "0x7c2347f23e11310e976532ff606688a57a77a535",
-    "MEV Bot: 0x7c2...535",
-    "0 Ether",
-    "7"
-  ],
-  [
-    "0x7cf09d7a9a74f746edcb06949b9d64bcd9d1604f",
-    "MEV Bot: 0x7Cf...04f",
-    "0 Ether",
-    "68,663"
-  ],
-  [
-    "0x7e00009e6d00258407c50094680080f5830a00d9",
-    "MEV Bot: 0x7e0...0d9",
-    "0 Ether",
-    "331"
-  ],
-  [
-    "0x8032eaede5c55f744387ca53aaf0499abcd783e5",
-    "MEV Bot: 0x803...3e5",
-    "67.68400308 Ether",
-    "56,367"
-  ],
-  [
-    "0x80d4230c0a68fc59cb264329d3a717fcaa472a13",
-    "MEV Bot: 0x80d...a13",
-    "0.95802055 Ether",
-    "35,489"
-  ],
-  [
-    "0x811213d2d0e26ecf65714074cef59119dd7f36d9",
-    "MEV Bot: 0x811...6D9",
-    "0 Ether",
-    "1,949"
-  ],
-  [
-    "0x81153f0889ab398c4acb42cb58b565a5392bba95",
-    "MEV Bot: 0x811...a95",
-    "0 Ether",
-    "50,358"
-  ],
-  [
-    "0x815b2ad3c669df996fc55a9472ad251312476898",
-    "MEV Bot: 0x815...898",
-    "0 Ether",
-    "25"
-  ],
-  [
-    "0x828a2d99bb1a31ca0eba80f3e01db8dae652a1e3",
-    "MEV Bot: 0x828...1E3",
-    "0 Ether",
-    "3,038"
-  ],
-  [
-    "0x83d159b6e661f7f7e56ee3cd35d8b45f73187967",
-    "MEV Bot: 0x83D...967",
-    "0.004 Ether",
-    "8"
-  ],
-  [
-    "0x842b9aa0e8e6eb77f16782bd27cb02a97002c4fc",
-    "MEV Bot: 0x842...4Fc",
-    "0 Ether",
-    "3,074"
-  ],
-  [
-    "0x8472ee188899569cf6ef42bb2038facae66972d2",
-    "MEV Bot: 0x847...2d2",
-    "0 Ether",
-    "2,387"
-  ],
-  [
-    "0x84783f7e102ac1e28abe254c7c27d4c01891ca2e",
-    "MEV Bot: 0x847...a2E",
-    "0 Ether",
-    "6,334"
-  ],
-  [
-    "0x85db6b36e3d7704d7f747430124af1af33c35ee1",
-    "MEV Bot: 0x85d...eE1",
-    "0.0118 Ether",
-    "38"
-  ],
-  [
-    "0x85e5c6cffd260a7f153b1f34b36f6dbeba3e279e",
-    "MEV Bot: 0x85e...79e",
-    "0 Ether",
-    "39"
-  ],
-  [
-    "0x860bd2dba9cd475a61e6d1b45e16c365f6d78f66",
-    "MEV Bot: 0x860...F66",
-    "177.92797595 Ether",
-    "2,169,219"
-  ],
-  [
-    "0x8698d9d5ea99809c00426484a80be2add4e54581",
-    "MEV Bot: 0x869...581",
-    "0 Ether",
-    "13,469"
-  ],
-  [
-    "0x8788a7cfd63cf06d0d7716c6a66f54b58248c896",
-    "MEV Bot: 0x878...896",
-    "0 Ether",
-    "700"
-  ],
-  [
-    "0x87d9da48db6e1f925cb67d3b7d2a292846c24cf7",
-    "MEV Bot: 0x87d...cf7",
-    "0.99762 Ether",
-    "77,000"
-  ],
-  [
-    "0x8a9bc155740b096575bfe1ee80f5783eefbbf1d2",
-    "MEV Bot: 0x8a9...1d2",
-    "0 Ether",
-    "90"
-  ],
-  [
-    "0x8aff5ca996f77487a4f04f1ce905bf3d27455580",
-    "MEV Bot: 0x8aF...580",
-    "0.0068376 Ether",
-    "477,553"
-  ],
-  [
-    "0x8b3400cf2dd7aa70f26b8a28b70c1d707e7945ff",
-    "MEV Bot: 0x8b3...5FF",
-    "0.56057899 Ether",
-    "87"
-  ],
-  [
-    "0x8b46e02e2ce66c041ddebeed9734a8deebf1a3ab",
-    "MEV Bot: 0x8b4...3Ab",
-    "0 Ether",
-    "3"
-  ],
-  [
-    "0x8c3635482f23bd108cfd941736fd15fbd59d53bc",
-    "MEV Bot: 0x8C3...3BC",
-    "0 Ether",
-    "797"
-  ],
-  [
-    "0x8e60b2b96ea901beb2cafd79b8d0ed249a5efd95",
-    "MEV Bot: 0x8e6...d95",
-    "0 Ether",
-    "56,695"
-  ],
-  [
-    "0x8f44e22ac221cc25a46289d1c307d4f34a4dd6c2",
-    "MEV Bot: 0x8f4...6c2",
-    "0 Ether",
-    "281"
-  ],
-  [
-    "0x91000060399502550000007bbfba0052f47b008a",
-    "MEV Bot: 0x910...08a",
-    "18.72641758 Ether",
-    "9,686"
-  ],
-  [
-    "0x911605012f87a3017322c81fcb4c90ada7c09116",
-    "MEV Bot: 0x911...116",
-    "0 Ether",
-    "54,879"
-  ],
-  [
-    "0x98c3d3183c4b8a650614ad179a1a98be0a8d6b8e",
-    "MEV Bot: 0x98c...b8e",
-    "19.68387479 Ether",
-    "496,435"
-  ],
-  [
-    "0x99999999d116ffa7d76590de2f427d8e15aeb0b8",
-    "MEV Bot: 0x999...0b8",
-    "1.62460355 Ether",
-    "23,171"
-  ],
-  [
-    "0x9a0ef593dcc6a77f80699c9fa00d1e138b67d832",
-    "MEV Bot: 0x9A0...832",
-    "3.58531599 Ether",
-    "2,823"
-  ],
-  [
-    "0x9aa954706326d900fd55e0928a92e3b93ad34dc9",
-    "MEV Bot: 0x9aa...Dc9",
-    "0 Ether",
-    "11"
-  ],
-  [
-    "0x9be4dd4724d9f13cc05ce25416d9f9bfccd443e0",
-    "MEV Bot: 0x9Be...3e0",
-    "0 Ether",
-    "3"
-  ],
-  [
-    "0x9e244643b91ecc1498718cb4f5d22d14a9b121a1",
-    "MEV Bot: 0x9e2...1a1",
-    "0 Ether",
-    "585"
-  ],
-  [
-    "0x9e9346e082d445f08fab1758984a31648c89241a",
-    "MEV Bot: 0x9E9...41A",
-    "0 Ether",
-    "3,884"
-  ],
-  [
-    "0xa1ba2e31d3b58c44293e54a90aaa817b14304e07",
-    "MEV Bot: 0xA1B...E07",
-    "0 Ether",
-    "766"
-  ],
-  [
-    "0xa57bd00134b2850b2a1c55860c9e9ea100fdd6cf",
-    "MEV Bot: 0xa57...6CF",
-    "76.81525281 Ether",
-    "3,384,842"
-  ],
-  [
-    "0xa69babef1ca67a37ffaf7a485dfff3382056e78c",
-    "MEV Bot: 0xA69...78C",
-    "55.91187843 Ether",
-    "127,986"
-  ],
-  [
-    "0xa75af537fb853bb432f6a51d47d70e349fffc6ba",
-    "MEV Bot: 0xA75...6Ba",
-    "0 Ether",
-    "12,165"
-  ],
-  [
-    "0xac9df97f9cd7a5f66913d107cddd00f40ac9ab4c",
-    "MEV Bot: 0xac9...b4c",
-    "0 Ether",
-    "645"
-  ],
-  [
-    "0xacd4ec996aad815efe72a11944188c6db6c30176",
-    "MEV Bot: 0xAcD...176",
-    "0 Ether",
-    "545"
-  ],
-  [
-    "0xaf9642bc3b0daf66a8930d17b99865944df4d60b",
-    "MEV Bot: 0xAf9...60b",
-    "0 Ether",
-    "184"
-  ],
-  [
-    "0xb3fcd22ffd34d75c979d49e2e5fb3a3405644831",
-    "MEV Bot: 0xB3f...831",
-    "0 Ether",
-    "3,947"
-  ],
-  [
-    "0xb4247d5978060387c0fe91d13a90d5711f65b7ce",
-    "MEV Bot: 0xb42...7CE",
-    "0 Ether",
-    "619"
-  ],
-  [
-    "0xb4990d3044641456a2509ed0bd709f1176a6a7af",
-    "MEV Bot: 0xb49...7af",
-    "0 Ether",
-    "979"
-  ],
-  [
-    "0xb5c7ad3cb6506c65da01f2fac2e667dcb9e66e9c",
-    "MEV Bot: 0xB5c...e9c",
-    "0 Ether",
-    "3,881"
-  ],
-  [
-    "0xb807aca3615bb8c93d32d7fb418e69370e1a7c86",
-    "MEV Bot: 0xb80...c86",
-    "0 Ether",
-    "2,373"
-  ],
-  [
-    "0xb91d9b045f8a64bca4c69625b00001109932be34",
-    "MEV Bot: 0xb91...e34",
-    "0 Ether",
-    "173"
-  ],
-  [
-    "0xba71b56fd0b590ed2a6992ed57a34c1391940513",
-    "MEV Bot: 0xBA7...513",
-    "1 wei",
-    "905"
-  ],
-  [
-    "0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a",
-    "MEV Bot: 0xbaD\u202605A",
-    "3.2142821 Ether",
-    "206,280"
-  ],
-  [
-    "0xbb5acd74d889da9102d97d5a14de49e6ce710851",
-    "MEV Bot: 0xbB5...851",
-    "0 Ether",
-    "18"
-  ],
-  [
-    "0xbe69dde0a051e72e18871be52cf506e419058f11",
-    "MEV Bot: 0xBE6...f11",
-    "0 Ether",
-    "878"
-  ],
-  [
-    "0xbeefbabeea323f07c59926295205d3b7a17e8638",
-    "MEV Bot: 0xBEE...638",
-    "148.27135213 Ether",
-    "513,618"
-  ],
-  [
-    "0xbf971824421fa3778cb638bdeb79b8d5223e0fe6",
-    "MEV Bot: 0xbF9...fE6",
-    "0 Ether",
-    "957"
-  ],
-  [
-    "0xbfef411d9ae30c5b471d529c838f1abb7b65d67f",
-    "MEV Bot: 0xbfe...67f",
-    "0.88483425 Ether",
-    "564"
-  ],
-  [
-    "0xc1374db508b7a3e0cdf061c8d8c1f7a260f231cd",
-    "MEV Bot: 0xc13...1cD",
-    "0 Ether",
-    "334"
-  ],
-  [
-    "0xc21b472e150669a9e20a1233cad67eced2851ec5",
-    "MEV Bot: 0xc21...ec5",
-    "0 Ether",
-    "69"
-  ],
-  [
-    "0xc2a54f74ebbbba5ed92d6a0b5dcb0b0ffb96f36e",
-    "MEV Bot: 0xc2A...36e",
-    "0 Ether",
-    "2,536"
-  ],
-  [
-    "0xc358848e138ab73bd5b9ffcced25517f71101fb0",
-    "MEV Bot: 0xc35...fb0",
-    "0 Ether",
-    "5,069"
-  ],
-  [
-    "0xc4595e3966e0ce6e3c46854647611940a09448d3",
-    "MEV Bot: 0xc459...8d3",
-    "0 Ether",
-    "1,561"
-  ],
-  [
-    "0xc5ecee6d94f72b6c456e3032f383284cca36b70a",
-    "MEV Bot: 0xC5E...70a",
-    "0 Ether",
-    "15,113"
-  ],
-  [
-    "0xc8046263d5b5544f6413a98b4693488499195a46",
-    "MEV Bot: 0xC80...A46",
-    "0 Ether",
-    "89,871"
-  ],
-  [
-    "0xc83d02d366b882202828f47a1c6fecb8fee1192e",
-    "MEV Bot: 0xc83...92e",
-    "0 Ether",
-    "91"
-  ],
-  [
-    "0xc90bffb8955e2d69780de7a43a11cf113d5e476d",
-    "MEV Bot: 0xc90...76d",
-    "0 Ether",
-    "203"
-  ],
-  [
-    "0xcadf4ffa3c2fc4784ba064928f403aee7b02d80e",
-    "MEV Bot: 0xCaD...80e",
-    "0 Ether",
-    "18,132"
-  ],
-  [
-    "0xcb3a0940df2781ed8c0d07c536f7cc39ed4d933b",
-    "MEV Bot: 0xcb3...33b",
-    "0 Ether",
-    "22"
-  ],
-  [
-    "0xcbd75d63f98c5ff5d7157edf06abef8a8325c24d",
-    "MEV Bot: 0xCbD...24d",
-    "0 Ether",
-    "19,921"
-  ],
-  [
-    "0xcd9e13b2f3bfc26cd99989fb849a2751932595c4",
-    "MEV Bot: 0xCD9...5C4",
-    "0 Ether",
-    "68,778"
-  ],
-  [
-    "0xcf99a481076186a44070c3158cf75c8cf00f84fc",
-    "MEV Bot: 0xCF9...4FC",
-    "0 Ether",
-    "173"
-  ],
-  [
-    "0xd234ca832efbd43819dcc96e25d0586d4e5d976f",
-    "MEV Bot: 0xd23...76F",
-    "0 Ether",
-    "262"
-  ],
-  [
-    "0xd241ed81b52a1b67098072b73f22fda9d253e827",
-    "MEV Bot: 0xD24...827",
-    "0 Ether",
-    "1,446"
-  ],
-  [
-    "0xd434cea7207d2e330dd1129d777191dee6b7c37d",
-    "MEV Bot: 0xD43...37D",
-    "0 Ether",
-    "31"
-  ],
-  [
-    "0xd59e5b41482ee6283c22e1a6a20756da512ffa97",
-    "MEV Bot: 0xd59...a97",
-    "0.00000001 Ether",
-    "2,463"
-  ],
-  [
-    "0xd89a0a4f088d9e47710e14257d4c5a7f9fd63c6d",
-    "MEV Bot: 0xd89...c6d",
-    "0.036 Ether",
-    "2,280"
-  ],
-  [
-    "0xd8c07491caa1edf960db3ceff387426d53942ea0",
-    "MEV Bot: 0xd8c...ea0",
-    "37.19732185 Ether",
-    "5,372"
-  ],
-  [
-    "0xd911560979b78821d7b045c79e36e9cbfc2f6c6f",
-    "MEV Bot: 0xD91...C6F",
-    "1,348.60031678 Ether",
-    "40,339"
-  ],
-  [
-    "0xdd28d64e40e00af54a0b5147539a515c4a0bc1c5",
-    "MEV Bot: 0xDD2...1c5",
-    "0 Ether",
-    "1,618"
-  ],
-  [
-    "0xdd4d3ed43e53185f4dbc467151ab2cb3142def52",
-    "MEV Bot: 0xDd4...f52",
-    "0 Ether",
-    "1,850"
-  ],
-  [
-    "0xdfee68a9adb981cd08699891a11cabe10f25ec44",
-    "MEV Bot: 0xDFe...c44",
-    "0 Ether",
-    "76"
-  ],
-  [
-    "0xdff523be6002e59a4a2242d99afccb502d4ed020",
-    "MEV Bot: 0xDfF...020",
-    "0 Ether",
-    "312"
-  ],
-  [
-    "0xe06ffa8146bbdeccbaaf72b6043b29091071aeb8",
-    "MEV Bot: 0xE06...EB8",
-    "0 Ether",
-    "15,717"
-  ],
-  [
-    "0xe07025d4ce7881b7f50d4d6b954e43590dcb1092",
-    "MEV Bot: 0xe07...092",
-    "0 Ether",
-    "7,742"
-  ],
-  [
-    "0xe0a9efe32985cc306255b395a1bd06d21ccead42",
-    "MEV Bot: 0xe0a...d42",
-    "0 Ether",
-    "7,665"
-  ],
-  [
-    "0xe1f08d771fb7b248b3266b7f79a9eafba3147c2d",
-    "MEV Bot: 0xe1f...c2D",
-    "0.99383254 Ether",
-    "62,082"
-  ],
-  [
-    "0xe35f24470730f5a488da9721548c1ab0b65b53d5",
-    "MEV Bot: 0xe35...3d5",
-    "0 Ether",
-    "1,314"
-  ],
-  [
-    "0xe37b5e4de6c4c6e3a1b5d914722a7daaf37590d0",
-    "MEV Bot: 0xE37...0d0",
-    "0 Ether",
-    "33,184"
-  ],
-  [
-    "0xe8c060f8052e07423f71d445277c61ac5138a2e5",
-    "MEV Bot: 0xE8c...2e5",
-    "0 Ether",
-    "57,638"
-  ],
-  [
-    "0xe9137b423713667f6c3ac6565b81aa005640212c",
-    "MEV Bot: 0xe91...12C",
-    "20.853904 Ether",
-    "471"
-  ],
-  [
-    "0xede2fafba9e23418485f49f052d0e1d332853e0f",
-    "MEV Bot: 0xEdE...E0F",
-    "0 Ether",
-    "2,616"
-  ],
-  [
-    "0xeef86c2e49e11345f1a693675df9a38f7d880c8f",
-    "MEV Bot: 0xeef...c8f",
-    "0 Ether",
-    "43,994"
-  ],
-  [
-    "0xef1de056b83032d6d19796ef85e7e60d72281968",
-    "MEV Bot: 0xef1...968",
-    "0.018 Ether",
-    "94"
-  ],
-  [
-    "0xef6e90098e54aa0cbb26c5cc68e040a59fad8758",
-    "MEV Bot: 0xef6...758",
-    "0 Ether",
-    "41"
-  ],
-  [
-    "0xf1243ea5b8b1ec27ee03c1c158a86470726e2905",
-    "MEV Bot: 0xf12...905",
-    "0 Ether",
-    "57"
-  ],
-  [
-    "0xf17131e60edb07d73f812058d50992639987665b",
-    "MEV Bot: 0xF17...65B",
-    "0 Ether",
-    "94"
-  ],
-  [
-    "0xf2a0aaecaeef1a00d1eb6178fb30de5695519abf",
-    "MEV Bot: 0xF2a...aBF",
-    "0 Ether",
-    "201"
-  ],
-  [
-    "0xf3b2d1395cb4536a931b2fa53dc7687e4c6f5411",
-    "MEV Bot: 0xf3B...411",
-    "0 Ether",
-    "11"
-  ],
-  [
-    "0xf6d78d9c50ffbc2917e374fd185b8ff89c55effc",
-    "MEV Bot: 0xf6d...FFC",
-    "46.33462768 Ether",
-    "1,561"
-  ],
-  [
-    "0xf71530c1f043703085b42608ff9dcccc43210a8e",
-    "MEV Bot: 0xF71...a8E",
-    "47.80281985 Ether",
-    "54,180"
-  ],
-  [
-    "0xf7c517e7e545d8f3286d336372b65995b81b91c2",
-    "MEV Bot: 0xf7c...1c2",
-    "0 Ether",
-    "548"
-  ],
-  [
-    "0xfbf6b914a5c1355db7a6aa63df81f24aca987358",
-    "MEV Bot: 0xFbf...358",
-    "0 Ether",
-    "1,073"
-  ],
-  [
-    "0xff2fbc735d33ae830f056107f1b551783ec4ed5b",
-    "MEV Bot: 0xFf2...d5B",
-    "0 Ether",
-    "1,156"
-  ],
-  [
-    "0xff62dfadca3b5643d0b283571fe154d886580c0c",
-    "MEV Bot: 0xFf6...c0c",
-    "0 Ether",
-    "17"
-  ],
-  [
-    "0x93f9a668dccc090f63b0ec27d809527dc2f0ebba",
-    "Multichain (Anyswap): Whitehat Rescue 3",
-    "31 wei",
-    "67"
-  ]
+  {
+    "address": "0xd911560979b78821d7b045c79e36e9cbfc2f6c6f",
+    "label": "MEV Bot: 0xD91...C6F",
+    "balance": 1348.60031678,
+    "tx": 40339
+  },
+  {
+    "address": "0x0000000000007f150bd6f54c40a34d7c3d5e9f56",
+    "label": "MEV Bot: 0x000...f56",
+    "balance": 884.6286418,
+    "tx": 2237104
+  },
+  {
+    "address": "0x860bd2dba9cd475a61e6d1b45e16c365f6d78f66",
+    "label": "MEV Bot: 0x860...F66",
+    "balance": 177.92797595,
+    "tx": 2169220
+  },
+  {
+    "address": "0xbeefbabeea323f07c59926295205d3b7a17e8638",
+    "label": "MEV Bot: 0xBEE...638",
+    "balance": 148.27135213,
+    "tx": 513656
+  },
+  {
+    "address": "0x000000000025d4386f7fb58984cbe110aee3a4c4",
+    "label": "MEV Bot: 0x000...4c4",
+    "balance": 115.11042279,
+    "tx": 153119
+  },
+  {
+    "address": "0x5aa3393e361c2eb342408559309b3e873cd876d6",
+    "label": "MEV Bot: 0x5AA...6d6",
+    "balance": 102.51741584,
+    "tx": 90879
+  },
+  {
+    "address": "0x0000000000000eb4ec62758aae93400b3e5f7f18",
+    "label": "MEV Bot: 0x000...f18",
+    "balance": 97.51520968,
+    "tx": 102087
+  },
+  {
+    "address": "0xa57bd00134b2850b2a1c55860c9e9ea100fdd6cf",
+    "label": "MEV Bot: 0xa57...6CF",
+    "balance": 76.81403673,
+    "tx": 3384905
+  },
+  {
+    "address": "0x57c1e0c2adf6eecdb135bcf9ec5f23b319be2c94",
+    "label": "MEV Bot: 0x57C...c94",
+    "balance": 76.80165187,
+    "tx": 20003
+  },
+  {
+    "address": "0x8032eaede5c55f744387ca53aaf0499abcd783e5",
+    "label": "MEV Bot: 0x803...3e5",
+    "balance": 66.0876937,
+    "tx": 56370
+  },
+  {
+    "address": "0x0000000000a84d1a9b0063a910315c7ffa9cd248",
+    "label": "MEV Bot: 0x000...248",
+    "balance": 65.48082574,
+    "tx": 3321
+  },
+  {
+    "address": "0xa69babef1ca67a37ffaf7a485dfff3382056e78c",
+    "label": "MEV Bot: 0xA69...78C",
+    "balance": 55.89240854,
+    "tx": 128074
+  },
+  {
+    "address": "0x000000000035b5e5ad9019092c665357240f594e",
+    "label": "MEV Bot: 0x000...94e",
+    "balance": 55.79520155,
+    "tx": 241894
+  },
+  {
+    "address": "0xf71530c1f043703085b42608ff9dcccc43210a8e",
+    "label": "MEV Bot: 0xF71...a8E",
+    "balance": 47.80281985,
+    "tx": 54187
+  },
+  {
+    "address": "0xf6d78d9c50ffbc2917e374fd185b8ff89c55effc",
+    "label": "MEV Bot: 0xf6d...FFC",
+    "balance": 46.33462768,
+    "tx": 1561
+  },
+  {
+    "address": "0x000000000000660def84e69995117c0176ba446e",
+    "label": "MEV Bot: 0x000...46E",
+    "balance": 41.36860359,
+    "tx": 2670
+  },
+  {
+    "address": "0x761d80987a36fc271875ea4de17539e8c82ae51d",
+    "label": "MEV Bot: 0x761...51D",
+    "balance": 38.12746663,
+    "tx": 1524
+  },
+  {
+    "address": "0xd8c07491caa1edf960db3ceff387426d53942ea0",
+    "label": "MEV Bot: 0xd8c...ea0",
+    "balance": 37.19732185,
+    "tx": 5372
+  },
+  {
+    "address": "0x0000e0ca771e21bd00057f54a68c30d400000000",
+    "label": "MEV Bot: 0x0000E0C...000",
+    "balance": 32.53635133,
+    "tx": 18258
+  },
+  {
+    "address": "0xe9137b423713667f6c3ac6565b81aa005640212c",
+    "label": "MEV Bot: 0xe91...12C",
+    "balance": 20.853904,
+    "tx": 471
+  },
+  {
+    "address": "0x000000000dfde7deaf24138722987c9a6991e2d4",
+    "label": "MEV Bot: 0x000...2D4",
+    "balance": 19.97012965,
+    "tx": 374592
+  },
+  {
+    "address": "0x98c3d3183c4b8a650614ad179a1a98be0a8d6b8e",
+    "label": "MEV Bot: 0x98c...b8e",
+    "balance": 19.6750846,
+    "tx": 496477
+  },
+  {
+    "address": "0x000000000b8a22fdae0233faa785df7974ff0391",
+    "label": "MEV Bot: 0x000...391",
+    "balance": 18.76547758,
+    "tx": 65
+  },
+  {
+    "address": "0x91000060399502550000007bbfba0052f47b008a",
+    "label": "MEV Bot: 0x910...08a",
+    "balance": 18.72641758,
+    "tx": 9686
+  },
+  {
+    "address": "0x0000000099cb7fc48a935bceb9f05bbae54e8987",
+    "label": "MEV Bot: 0x000...987",
+    "balance": 10.62364759,
+    "tx": 72460
+  },
+  {
+    "address": "0x00000000000080c886232e9b7ebbfb942b5987aa",
+    "label": "MEV Bot: 0x000...7AA",
+    "balance": 9.64679912,
+    "tx": 77590
+  },
+  {
+    "address": "0x9799b475dec92bd99bbdd943013325c36157f383",
+    "label": "Fund: 0x979...383",
+    "balance": 7.51203295,
+    "tx": 134744
+  },
+  {
+    "address": "0x6ed51e4acca56d74076cdeb58337225b8aaf4abc",
+    "label": "MEV Bot: 0x6ED...ABC",
+    "balance": 6.43422509,
+    "tx": 525
+  },
+  {
+    "address": "0x60a1d9d5f6346aae41a18b08dcd0be48a74a3021",
+    "label": "MEV Bot: 0x60a...021",
+    "balance": 6.03514734,
+    "tx": 2481
+  },
+  {
+    "address": "0x0000000000710a9c1f6db5f504be77ffb3b583ec",
+    "label": "MEV Bot: 0x000...3ec",
+    "balance": 6.0,
+    "tx": 3391
+  },
+  {
+    "address": "0x4cadecc51feb5c1f6d9a902ecc817a1b8c2246f9",
+    "label": "MEV Bot: 0x4ca\u20266F9",
+    "balance": 3.82714038,
+    "tx": 360
+  },
+  {
+    "address": "0x9a0ef593dcc6a77f80699c9fa00d1e138b67d832",
+    "label": "MEV Bot: 0x9A0...832",
+    "balance": 3.58531599,
+    "tx": 2823
+  },
+  {
+    "address": "0x7719494eb8f3ca261f5c806d754853dc5ce2edf7",
+    "label": "MEV Bot: 0x771...Df7",
+    "balance": 3.47413995,
+    "tx": 566
+  },
+  {
+    "address": "0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a",
+    "label": "MEV Bot: 0xbaD\u202605A",
+    "balance": 3.2142821,
+    "tx": 206288
+  },
+  {
+    "address": "0x4fce027bc57d7530b84527f4848983cece4df15e",
+    "label": "MEV Bot: 0x4Fc...15e",
+    "balance": 2.39395179,
+    "tx": 4769
+  },
+  {
+    "address": "0x507888e987257a8dde6f8afa46375cefe2cbf504",
+    "label": "MEV Bot: 0x507...504",
+    "balance": 2.0036789,
+    "tx": 2690
+  },
+  {
+    "address": "0x99999999d116ffa7d76590de2f427d8e15aeb0b8",
+    "label": "MEV Bot: 0x999...0b8",
+    "balance": 1.62460355,
+    "tx": 23175
+  },
+  {
+    "address": "0x70d772361eb567eb45da56e147e5224e2abedeba",
+    "label": "MEV Bot: 0x70d...EbA",
+    "balance": 1.5,
+    "tx": 120
+  },
+  {
+    "address": "0x5492a302991751fd6b5c051d85be48acc9fec4d3",
+    "label": "MEV Bot: 0x549...4D3",
+    "balance": 1.34524576,
+    "tx": 1419
+  },
+  {
+    "address": "0x74d8353a2ce55b41828075f406b0e42001bcd00b",
+    "label": "MEV Bot: 0x74D...00b",
+    "balance": 1.00120272,
+    "tx": 1499
+  },
+  {
+    "address": "0x0c3de458b51a11da7d4616f42f66c861e3859d3e",
+    "label": "MEV Bot: 0x0c3...D3E",
+    "balance": 1.0,
+    "tx": 12454
+  },
+  {
+    "address": "0x87d9da48db6e1f925cb67d3b7d2a292846c24cf7",
+    "label": "MEV Bot: 0x87d...cf7",
+    "balance": 0.99762,
+    "tx": 77001
+  },
+  {
+    "address": "0xe1f08d771fb7b248b3266b7f79a9eafba3147c2d",
+    "label": "MEV Bot: 0xe1f...c2D",
+    "balance": 0.99383254,
+    "tx": 62088
+  },
+  {
+    "address": "0x80d4230c0a68fc59cb264329d3a717fcaa472a13",
+    "label": "MEV Bot: 0x80d...a13",
+    "balance": 0.95802055,
+    "tx": 35490
+  },
+  {
+    "address": "0xbfef411d9ae30c5b471d529c838f1abb7b65d67f",
+    "label": "MEV Bot: 0xbfe...67f",
+    "balance": 0.88483425,
+    "tx": 564
+  },
+  {
+    "address": "0x8b3400cf2dd7aa70f26b8a28b70c1d707e7945ff",
+    "label": "MEV Bot: 0x8b3...5FF",
+    "balance": 0.56057899,
+    "tx": 87
+  },
+  {
+    "address": "0x0ef8b4525c69bfa7bdece3ab09f95bbf0944b783",
+    "label": "MEV Bot: 0x0ef...783",
+    "balance": 0.34197004,
+    "tx": 473
+  },
+  {
+    "address": "0x73f78d23370386cbcecd24ab3fa5da63be80f0e8",
+    "label": "MEV Bot: 0x73F...0e8",
+    "balance": 0.30991014,
+    "tx": 316
+  },
+  {
+    "address": "0x4a137fd5e7a256ef08a7de531a17d0be0cc7b6b6",
+    "label": "MEV Bot: 0x4a1...6b6",
+    "balance": 0.19210183,
+    "tx": 141717
+  },
+  {
+    "address": "0x0eae044f00b0af300500f090ea00027097d03000",
+    "label": "MEV Bot: 0x0ea...000",
+    "balance": 0.08443557,
+    "tx": 57932
+  },
+  {
+    "address": "0x0000000000d9455cc7eb92d06e00582a982f68fe",
+    "label": "MEV Bot: 0x000...8fe",
+    "balance": 0.03686734,
+    "tx": 27697
+  },
+  {
+    "address": "0xd89a0a4f088d9e47710e14257d4c5a7f9fd63c6d",
+    "label": "MEV Bot: 0xd89...c6d",
+    "balance": 0.036,
+    "tx": 2280
+  },
+  {
+    "address": "0x46aa587c29aef0c5ca51e8e5716dc1be822d6f46",
+    "label": "MEV Bot: 0x46a...F46",
+    "balance": 0.03541051,
+    "tx": 1143
+  },
+  {
+    "address": "0x00000000002d383933aa1609f11d0afa4d5ea90a",
+    "label": "MEV Bot: 0x000...90A",
+    "balance": 0.02862217,
+    "tx": 7016
+  },
+  {
+    "address": "0x000000000042c71e9b847fb1533270360a7b2cbf",
+    "label": "MEV Bot: 0x000...Cbf",
+    "balance": 0.0210951,
+    "tx": 6127
+  },
+  {
+    "address": "0xef1de056b83032d6d19796ef85e7e60d72281968",
+    "label": "MEV Bot: 0xef1...968",
+    "balance": 0.018,
+    "tx": 94
+  },
+  {
+    "address": "0x85db6b36e3d7704d7f747430124af1af33c35ee1",
+    "label": "MEV Bot: 0x85d...eE1",
+    "balance": 0.0118,
+    "tx": 38
+  },
+  {
+    "address": "0x8aff5ca996f77487a4f04f1ce905bf3d27455580",
+    "label": "MEV Bot: 0x8aF...580",
+    "balance": 0.0068376,
+    "tx": 477553
+  },
+  {
+    "address": "0x83d159b6e661f7f7e56ee3cd35d8b45f73187967",
+    "label": "MEV Bot: 0x83D...967",
+    "balance": 0.004,
+    "tx": 8
+  },
+  {
+    "address": "0x563bdabaa8846ec445b25bfbed88d160890a02ed",
+    "label": "MEV Bot: 0x563...2ed",
+    "balance": 0.00098134,
+    "tx": 20674
+  },
+  {
+    "address": "0x4083d4ef32631ed3394cc1b11efb03ceebcd2f6c",
+    "label": "MEV Bot: 0x408...F6C",
+    "balance": 0.00077,
+    "tx": 239
+  },
+  {
+    "address": "0x0a482d6499a3ea0d01bc60e42e6f1774ca7faf60",
+    "label": "MEV Bot: 0x0A4...f60",
+    "balance": 1.385e-05,
+    "tx": 69
+  },
+  {
+    "address": "0x000000000085359dbc0eb45911e5f3f7a532a07e",
+    "label": "MEV Bot: 0x000...07E",
+    "balance": 4e-07,
+    "tx": 3166
+  },
+  {
+    "address": "0x0000000000a18ba8ff557c143927bd3b2593bf7a",
+    "label": "MEV Bot: 0x000...F7A",
+    "balance": 1.6e-07,
+    "tx": 1270
+  },
+  {
+    "address": "0xd59e5b41482ee6283c22e1a6a20756da512ffa97",
+    "label": "MEV Bot: 0xd59...a97",
+    "balance": 1e-08,
+    "tx": 2463
+  },
+  {
+    "address": "0xeb4c5ab9b36437f969888be99af42fc9087005a5",
+    "label": "AMB Flashbot Helper",
+    "balance": 0.0,
+    "tx": 1855
+  },
+  {
+    "address": "0x0000000000036414940324055c43e75f56b7d016",
+    "label": "MEV Bot: 0x000...016",
+    "balance": 0.0,
+    "tx": 6276
+  },
+  {
+    "address": "0x0000000009cb38fb8a1bbb8ada23c8261118f019",
+    "label": "MEV Bot: 0x000...019",
+    "balance": 0.0,
+    "tx": 556
+  },
+  {
+    "address": "0x000000000000084e91743124a982076c59f10084",
+    "label": "MEV Bot: 0x000...084",
+    "balance": 0.0,
+    "tx": 251005
+  },
+  {
+    "address": "0x000000000a08a7ca00e4239dd97d8542c51b9086",
+    "label": "MEV Bot: 0x000...086",
+    "balance": 0.0,
+    "tx": 304
+  },
+  {
+    "address": "0x0000007c68390193776e8b44df3b698d311070b9",
+    "label": "MEV Bot: 0x000...0B9",
+    "balance": 0.0,
+    "tx": 4292
+  },
+  {
+    "address": "0x00000000000123685885532dcb685c442dc83126",
+    "label": "MEV Bot: 0x000...126",
+    "balance": 0,
+    "tx": 4775
+  },
+  {
+    "address": "0x00000000003eea204b86b877632d9ee88b179150",
+    "label": "MEV Bot: 0x000...150",
+    "balance": 0.0,
+    "tx": 1296
+  },
+  {
+    "address": "0x000000004b614af95d1bb7c236a3aa800b722173",
+    "label": "MEV Bot: 0x000...173",
+    "balance": 0.0,
+    "tx": 1478
+  },
+  {
+    "address": "0x0000000000d41c96294ccdac8612bdfe29c641af",
+    "label": "MEV Bot: 0x000...1af",
+    "balance": 0.0,
+    "tx": 59454
+  },
+  {
+    "address": "0x0000000084f794716fa5485d1424b8bd562291f9",
+    "label": "MEV Bot: 0x000...1f9",
+    "balance": 0.0,
+    "tx": 136
+  },
+  {
+    "address": "0x00000000000c66b8cb2836c3620f88a9c812d208",
+    "label": "MEV Bot: 0x000...208",
+    "balance": 0.0,
+    "tx": 982
+  },
+  {
+    "address": "0x0000000000b92ac90d898eba87fa5f2483f32234",
+    "label": "MEV Bot: 0x000...234",
+    "balance": 0.0,
+    "tx": 2415
+  },
+  {
+    "address": "0x00000000000a47b1298f18cf67de547bbe0d723f",
+    "label": "MEV Bot: 0x000...23F",
+    "balance": 0.0,
+    "tx": 28813
+  },
+  {
+    "address": "0x0000004f2f05a8223b89edb700848d70970742bf",
+    "label": "MEV Bot: 0x000...2bF",
+    "balance": 0.0,
+    "tx": 8551
+  },
+  {
+    "address": "0x00000000f6e788341c1acb3c2d49fa9263b8a2f7",
+    "label": "MEV Bot: 0x000...2F7",
+    "balance": 0.0,
+    "tx": 316
+  },
+  {
+    "address": "0x0000000050fd1220ecf21d84687ebad194fd537f",
+    "label": "MEV Bot: 0x000...37F",
+    "balance": 0.0,
+    "tx": 391
+  },
+  {
+    "address": "0x000000004b5ad44f70781462233d177d32d993f1",
+    "label": "MEV Bot: 0x000...3f1",
+    "balance": 0.0,
+    "tx": 208
+  },
+  {
+    "address": "0x0000000000208d4805eb97db796e74b48547445d",
+    "label": "MEV Bot: 0x000...45d",
+    "balance": 0.0,
+    "tx": 2158
+  },
+  {
+    "address": "0x000000000003c42172c0bdd69d6afb6b0bf4b488",
+    "label": "MEV Bot: 0x000...488",
+    "balance": 0.0,
+    "tx": 1362
+  },
+  {
+    "address": "0x0000000096b674bb0ea9c74c28be782bb48724de",
+    "label": "MEV Bot: 0x000...4de",
+    "balance": 0.0,
+    "tx": 134
+  },
+  {
+    "address": "0x000000000000f0bc41c73af48f022f8c27b5350e",
+    "label": "MEV Bot: 0x000...50e",
+    "balance": 0.0,
+    "tx": 421
+  },
+  {
+    "address": "0x0000000000cbba74c365869ae50225f5596ad59c",
+    "label": "MEV Bot: 0x000...59c",
+    "balance": 0.0,
+    "tx": 4332
+  },
+  {
+    "address": "0x00000000b7ca7e12dcc72290d1fe47b2ef14c607",
+    "label": "MEV Bot: 0x000...607",
+    "balance": 0.0,
+    "tx": 66231
+  },
+  {
+    "address": "0x00000000726422a6fecb4759b44d47e48cf746aa",
+    "label": "MEV Bot: 0x000...6aa",
+    "balance": 0.0,
+    "tx": 29076
+  },
+  {
+    "address": "0x000000dce08f643423c0bec02b0799e37f076781",
+    "label": "MEV Bot: 0x000...781",
+    "balance": 0.0,
+    "tx": 131
+  },
+  {
+    "address": "0x00000000000062f06c7007906b2a4034fa5c4818",
+    "label": "MEV Bot: 0x000...818",
+    "balance": 0.0,
+    "tx": 3789
+  },
+  {
+    "address": "0x000000005736775feb0c8568e7dee77222a26880",
+    "label": "MEV Bot: 0x000...880",
+    "balance": 0.0,
+    "tx": 108651
+  },
+  {
+    "address": "0x00000000c2cf7648c169b25ef1c217864bfa38cc",
+    "label": "MEV Bot: 0x000...8cC",
+    "balance": 0.0,
+    "tx": 219999
+  },
+  {
+    "address": "0x00000000116579a5ba59e2f22e77ede26809b970",
+    "label": "MEV Bot: 0x000...970",
+    "balance": 0.0,
+    "tx": 12724
+  },
+  {
+    "address": "0x00000000005b84b558de194b242f92b11f1469ca",
+    "label": "MEV Bot: 0x000...9CA",
+    "balance": 0.0,
+    "tx": 352
+  },
+  {
+    "address": "0x0000000089341e263b85d84a0eea39f47c37a9d2",
+    "label": "MEV Bot: 0x000...9d2",
+    "balance": 0.0,
+    "tx": 271753
+  },
+  {
+    "address": "0x00000000000f45b418291a68f2646d0b1a303a1c",
+    "label": "MEV Bot: 0x000...A1C",
+    "balance": 0.0,
+    "tx": 668
+  },
+  {
+    "address": "0x00000000003b3cc22af3ae1eac0440bcee416b40",
+    "label": "MEV Bot: 0x000...B40",
+    "balance": 0.0,
+    "tx": 285152
+  },
+  {
+    "address": "0x00000000500e2fece27a7600435d0c48d64e0c00",
+    "label": "MEV Bot: 0x000...C00",
+    "balance": 0.0,
+    "tx": 18300
+  },
+  {
+    "address": "0x0000000000e4cc48a5427ca0b9ed03b5bc501c97",
+    "label": "MEV Bot: 0x000...C97",
+    "balance": 0.0,
+    "tx": 7441
+  },
+  {
+    "address": "0x0000000dc0cc877153e7e93870ad2a3382e99ca0",
+    "label": "MEV Bot: 0x000...ca0",
+    "balance": 0.0,
+    "tx": 90
+  },
+  {
+    "address": "0x0000000765306855601b70d930ac579b23a18d44",
+    "label": "MEV Bot: 0x000...D44",
+    "balance": 0.0,
+    "tx": 206
+  },
+  {
+    "address": "0x0000000000005117dd3a72e64a705198753fdd54",
+    "label": "MEV Bot: 0x000...d54",
+    "balance": 0.0,
+    "tx": 197686
+  },
+  {
+    "address": "0x000000a60073b3ab5258ec72f46c002ad912ed76",
+    "label": "MEV Bot: 0x000...d76",
+    "balance": 0.0,
+    "tx": 3001
+  },
+  {
+    "address": "0x000000090629d24e9ebbd5bb2a714f21ecd6ed9a",
+    "label": "MEV Bot: 0x000...d9a",
+    "balance": 0.0,
+    "tx": 138
+  },
+  {
+    "address": "0x00000000009c7f96284472465e1b5c44e8cfcda1",
+    "label": "MEV Bot: 0x000...DA1",
+    "balance": 0.0,
+    "tx": 560
+  },
+  {
+    "address": "0x00000000000e1d0dabf7b7c7b68866fc940d0db8",
+    "label": "MEV Bot: 0x000...Db8",
+    "balance": 0,
+    "tx": 5376
+  },
+  {
+    "address": "0x0000000000590b74eb97457bf7b3ff6d63c6fde2",
+    "label": "MEV Bot: 0x000...de2",
+    "balance": 0.0,
+    "tx": 554
+  },
+  {
+    "address": "0x00000000032962b51589768828ad878876299e14",
+    "label": "MEV Bot: 0x000...e14",
+    "balance": 0.0,
+    "tx": 8990
+  },
+  {
+    "address": "0x00000000008c4fb1c916e0c88fd4cc402d935e7d",
+    "label": "MEV Bot: 0x000...e7D",
+    "balance": 0.0,
+    "tx": 55034
+  },
+  {
+    "address": "0x000000000000006f6502b7f2bbac8c30a3f67e9a",
+    "label": "MEV Bot: 0x000...E9a",
+    "balance": 0.0,
+    "tx": 1438193
+  },
+  {
+    "address": "0x000000000755567f4924bf483bdf5a53ebc8ef64",
+    "label": "MEV Bot: 0x000...f64",
+    "balance": 0.0,
+    "tx": 13237
+  },
+  {
+    "address": "0x0000000000126f0ba49fbb414edc7041d1166ff4",
+    "label": "MEV Bot: 0x000...FF4",
+    "balance": 0.0,
+    "tx": 37
+  },
+  {
+    "address": "0x00000081c57cbc967248bea482c417207e84cffb",
+    "label": "MEV Bot: 0x000...ffb",
+    "balance": 0.0,
+    "tx": 3481
+  },
+  {
+    "address": "0x0055ae46f700bcc53b1b00483d64000d47007200",
+    "label": "MEV Bot: 0x005...200",
+    "balance": 0.0,
+    "tx": 383
+  },
+  {
+    "address": "0x00f3f73f07d9e9e797b82b00536e010018000000",
+    "label": "MEV Bot: 0x00f3f...000",
+    "balance": 0.0,
+    "tx": 30
+  },
+  {
+    "address": "0x018d5c4783f5317815f6e8168942a12adde3cd3c",
+    "label": "MEV Bot: 0x018...D3C",
+    "balance": 0.0,
+    "tx": 37590
+  },
+  {
+    "address": "0x01a1527a5127f721a4c9ff955c93f6faef2f6deb",
+    "label": "MEV Bot: 0x01a...deb",
+    "balance": 0.0,
+    "tx": 11035
+  },
+  {
+    "address": "0x01ba6660c1bf555cc1455a961dc8b4e5a95b0159",
+    "label": "MEV Bot: 0x01b...159",
+    "balance": 0.0,
+    "tx": 392
+  },
+  {
+    "address": "0x030d1cad9f917cab7356b6a266f8ea0b31093ae1",
+    "label": "MEV Bot: 0x030...AE1",
+    "balance": 0.0,
+    "tx": 7
+  },
+  {
+    "address": "0x04eb85ad427e7e6b3ffb67e049872210fd3fbae9",
+    "label": "MEV Bot: 0x04e...aE9",
+    "balance": 0.0,
+    "tx": 3786
+  },
+  {
+    "address": "0x05e31b564e800d7da3389b1fb37835fc4bdb6fbf",
+    "label": "MEV Bot: 0x05e...FBf",
+    "balance": 0.0,
+    "tx": 44
+  },
+  {
+    "address": "0x07197a25bf7297c2c41dd09a79160d05b6232bcf",
+    "label": "MEV Bot: 0x071...BcF",
+    "balance": 0.0,
+    "tx": 6680
+  },
+  {
+    "address": "0x098fdb32ace942edc1355c0a78af2332b1ec6fef",
+    "label": "MEV Bot: 0x098...Fef",
+    "balance": 0.0,
+    "tx": 443
+  },
+  {
+    "address": "0x0bd30c34e4524df28d368d00c2feb534696d0bb7",
+    "label": "MEV Bot: 0x0bd...bb7",
+    "balance": 0.0,
+    "tx": 39
+  },
+  {
+    "address": "0x1316abcc2ab4ce7e937cd27707c54f6f6688a91b",
+    "label": "MEV Bot: 0x131...91b",
+    "balance": 0.0,
+    "tx": 595
+  },
+  {
+    "address": "0x195acb4ef662cbae48db6a26c88b603c65090803",
+    "label": "MEV Bot: 0x195...803",
+    "balance": 0.0,
+    "tx": 34
+  },
+  {
+    "address": "0x1bea639199d4d37f4307b0e4441f4479bd9970e9",
+    "label": "MEV Bot: 0x1Be...0E9",
+    "balance": 0.0,
+    "tx": 49
+  },
+  {
+    "address": "0x1d6e8bac6ea3730825bde4b005ed7b2b39a2932d",
+    "label": "MEV Bot: 0x1d6...32d",
+    "balance": 0.0,
+    "tx": 275649
+  },
+  {
+    "address": "0x1ebadd3e0bb6d4e9edb574c5f0b0edc23c815d95",
+    "label": "MEV Bot: 0x1Eb...D95",
+    "balance": 0.0,
+    "tx": 158
+  },
+  {
+    "address": "0x2242a7461c7bbd9202a97e967a0fbb8336ac863d",
+    "label": "MEV Bot: 0x224...63d",
+    "balance": 0.0,
+    "tx": 2309
+  },
+  {
+    "address": "0x294e453c3f5758e562aa13c76ec376c70c0bdbad",
+    "label": "MEV Bot: 0x294...bAD",
+    "balance": 0.0,
+    "tx": 3203
+  },
+  {
+    "address": "0x2ad9142941514c9550fd5d1b20baf9cb93a86847",
+    "label": "MEV Bot: 0x2AD...847",
+    "balance": 0.0,
+    "tx": 379
+  },
+  {
+    "address": "0x2d0f3b2abe9d61a21812023bb28cd2da7c3f30b9",
+    "label": "MEV Bot: 0x2d0...0b9",
+    "balance": 0.0,
+    "tx": 236
+  },
+  {
+    "address": "0x2f1d79860cf6ea3f4b3b734153b52815773c0638",
+    "label": "MEV Bot: 0x2f1...638",
+    "balance": 0.0,
+    "tx": 27704
+  },
+  {
+    "address": "0x33f4c006e6541cbaa3179b0978143e3ac3d70220",
+    "label": "MEV Bot: 0x33F...220",
+    "balance": 0.0,
+    "tx": 359
+  },
+  {
+    "address": "0x3445c9ee4d17ba579061beec736f81b6d96754cd",
+    "label": "MEV Bot: 0x344...4cD",
+    "balance": 0.0,
+    "tx": 2387
+  },
+  {
+    "address": "0x35137b4c325c115a704cd23d5f2faf8777370d06",
+    "label": "MEV Bot: 0x351...d06",
+    "balance": 0.0,
+    "tx": 18
+  },
+  {
+    "address": "0x3700006fbcde59a8b3af2c134d00e9530000e379",
+    "label": "MEV Bot: 0x370...379",
+    "balance": 0.0,
+    "tx": 165121
+  },
+  {
+    "address": "0x3773e380e06c6ec156116f77021862c45c6022bb",
+    "label": "MEV Bot: 0x377...2bb",
+    "balance": 0.0,
+    "tx": 477
+  },
+  {
+    "address": "0x39dbb8f23001445e43c269f1246809091be7da60",
+    "label": "MEV Bot: 0x39d...A60",
+    "balance": 0.0,
+    "tx": 115
+  },
+  {
+    "address": "0x39ee28ec61a63147fc822b9e40757be530eefa65",
+    "label": "MEV Bot: 0x39e...a65",
+    "balance": 0.0,
+    "tx": 23
+  },
+  {
+    "address": "0x3af4ea5614f21e23b2398a62e1e20fe3d8b2fb7f",
+    "label": "MEV Bot: 0x3AF...B7F",
+    "balance": 0.0,
+    "tx": 1549
+  },
+  {
+    "address": "0x3b654e30633d44b05847aaf65cf1ad0c92bed248",
+    "label": "MEV Bot: 0x3B6...248",
+    "balance": 0.0,
+    "tx": 759
+  },
+  {
+    "address": "0x4024fe8187f0f31e72914a7d5014b29a88f07747",
+    "label": "MEV Bot: 0x402...747",
+    "balance": 0.0,
+    "tx": 8788
+  },
+  {
+    "address": "0x40e645bc65035286de2009d717365d9640cc2b09",
+    "label": "MEV Bot: 0x40E...b09",
+    "balance": 0.0,
+    "tx": 331
+  },
+  {
+    "address": "0x42b2c65db7f9e3b6c26bc6151ccf30cce0fb99ea",
+    "label": "MEV Bot: 0x42B...9EA",
+    "balance": 0.0,
+    "tx": 3429
+  },
+  {
+    "address": "0x43f2dfc9f99eba7a52fdffe7f3ea2182324e8896",
+    "label": "MEV Bot: 0x43F...896",
+    "balance": 0.0,
+    "tx": 3271
+  },
+  {
+    "address": "0x44ccdcd59984848a749e9f999b08f2b68153e123",
+    "label": "MEV Bot: 0x44c...123",
+    "balance": 0.0,
+    "tx": 739
+  },
+  {
+    "address": "0x456804481f237bbb1b0baf5bd606d481ad672048",
+    "label": "MEV Bot: 0x456...048",
+    "balance": 0.0,
+    "tx": 47
+  },
+  {
+    "address": "0x45716d9eddbc332df1d42b9f540fbebed671b20f",
+    "label": "MEV Bot: 0x457...20F",
+    "balance": 0.0,
+    "tx": 31070
+  },
+  {
+    "address": "0x467c197bf259fe46232c142acda389fc0795c7f4",
+    "label": "MEV Bot: 0x467...7f4",
+    "balance": 0.0,
+    "tx": 662
+  },
+  {
+    "address": "0x46c4128981525aa446e02ffb2ff762f1d6a49170",
+    "label": "MEV Bot: 0x46C...170",
+    "balance": 0.0,
+    "tx": 19151
+  },
+  {
+    "address": "0x49307d775728daf1d4736ab762de0cefd035e323",
+    "label": "MEV Bot: 0x493...323",
+    "balance": 0.0,
+    "tx": 78326
+  },
+  {
+    "address": "0x498e84899558545a0f6d4036bdb3a3842cf9b6d0",
+    "label": "MEV Bot: 0x498...6D0",
+    "balance": 0.0,
+    "tx": 7222
+  },
+  {
+    "address": "0x499dd900f800fd0a2ed300006000a57f00fa009b",
+    "label": "MEV Bot: 0x499...09b",
+    "balance": 0.0,
+    "tx": 10932
+  },
+  {
+    "address": "0x4a47615f0b239063992dddbee6844033c172f2b6",
+    "label": "MEV Bot: 0x4A4...2B6",
+    "balance": 0.0,
+    "tx": 171
+  },
+  {
+    "address": "0x4cb18386e5d1f34dc6eea834bf3534a970a3f8e7",
+    "label": "MEV Bot: 0x4Cb...8e7",
+    "balance": 0.0,
+    "tx": 732871
+  },
+  {
+    "address": "0x4d246be90c2f36730bb853ad41d0a189061192d3",
+    "label": "MEV Bot: 0x4d2...2d3",
+    "balance": 0.0,
+    "tx": 695376
+  },
+  {
+    "address": "0x4d638adb8c07a78655e9ae88641c4202774e6584",
+    "label": "MEV Bot: 0x4d6...584",
+    "balance": 0.0,
+    "tx": 20335
+  },
+  {
+    "address": "0x51399b32cd0186bb32230e24167489f3b2f47870",
+    "label": "MEV Bot: 0x513...870",
+    "balance": 0.0,
+    "tx": 189821
+  },
+  {
+    "address": "0x553eea17185e5ae6bb72f9528a4c3fc1a844b859",
+    "label": "MEV Bot: 0x553...859",
+    "balance": 0.0,
+    "tx": 1109
+  },
+  {
+    "address": "0x55eb58655f8202ff839487886fedba2a1eb7b2d7",
+    "label": "MEV Bot: 0x55e...2d7",
+    "balance": 0.0,
+    "tx": 16942
+  },
+  {
+    "address": "0x5cacdfb236e4bfdd5f9ed992a998cc99aed5b4d9",
+    "label": "MEV Bot: 0x5ca...4d9",
+    "balance": 0.0,
+    "tx": 167
+  },
+  {
+    "address": "0x5e767aa6204ece873c7d9405c4bca49cd3e0bf39",
+    "label": "MEV Bot: 0x5E7...F39",
+    "balance": 0.0,
+    "tx": 6787
+  },
+  {
+    "address": "0x5f05a1e43e738efcd5227e65660a874050dda64c",
+    "label": "MEV Bot: 0x5F0...64C",
+    "balance": 0.0,
+    "tx": 420
+  },
+  {
+    "address": "0x634ccb596def40fad8dde810a8f98d286a2a5b27",
+    "label": "MEV Bot: 0x634...b27",
+    "balance": 0.0,
+    "tx": 355
+  },
+  {
+    "address": "0x66f049111958809841bbe4b81c034da2d953aa0c",
+    "label": "MEV Bot: 0x66f...A0c",
+    "balance": 0.0,
+    "tx": 27130
+  },
+  {
+    "address": "0x689209519e78947d52b862748e059fad1238d689",
+    "label": "MEV Bot: 0x689...689",
+    "balance": 0.0,
+    "tx": 880
+  },
+  {
+    "address": "0x696713eaba8d603bab45e2c5820ef4c175c7a5e8",
+    "label": "MEV Bot: 0x696...5e8",
+    "balance": 0.0,
+    "tx": 65
+  },
+  {
+    "address": "0x6af1a16fde7346e7729fa921ad2ddf6a462061e2",
+    "label": "MEV Bot: 0x6aF...1e2",
+    "balance": 0.0,
+    "tx": 16763
+  },
+  {
+    "address": "0x6b58007b960016b2f559dbfd809ac4dcb1febdfe",
+    "label": "MEV Bot: 0x6B5...Dfe",
+    "balance": 0,
+    "tx": 753
+  },
+  {
+    "address": "0x6d660980b00c3405c2dec173cf2259b15572b9b5",
+    "label": "MEV Bot: 0x6d6...9B5",
+    "balance": 0.0,
+    "tx": 2206
+  },
+  {
+    "address": "0x6ee33c4a192118ea664612aec6f7b6e4aef78b87",
+    "label": "MEV Bot: 0x6eE...b87",
+    "balance": 0.0,
+    "tx": 1553
+  },
+  {
+    "address": "0x72bd67d7406d0c490b0ad0b8968f4beccdd494db",
+    "label": "MEV Bot: 0x72b...4dB",
+    "balance": 0.0,
+    "tx": 220
+  },
+  {
+    "address": "0x731ea79a1b2b90683507da2aab498bd8ff8f7ff1",
+    "label": "MEV Bot: 0x731...ff1",
+    "balance": 0.0,
+    "tx": 6286
+  },
+  {
+    "address": "0x7436a14a8dbf6eba14f114cb71a3b6d4527b222a",
+    "label": "MEV Bot: 0x743...22a",
+    "balance": 0.0,
+    "tx": 1231
+  },
+  {
+    "address": "0x7777777580290cede6e2121b846023fa1a1e4978",
+    "label": "MEV Bot: 0x777...978",
+    "balance": 0.0,
+    "tx": 10701
+  },
+  {
+    "address": "0x77b285fbdb277e53ed29c9dda7c0aa6f2591b09d",
+    "label": "MEV Bot: 0x77b...09d",
+    "balance": 0.0,
+    "tx": 924
+  },
+  {
+    "address": "0x793ff66b5435a6de9d6d7e70c4c68522e8cd24e1",
+    "label": "MEV Bot: 0x793...4E1",
+    "balance": 0.0,
+    "tx": 7231
+  },
+  {
+    "address": "0x79dd6397b1ce40d6ac14f361ff9f9836d0cff6e1",
+    "label": "MEV Bot: 0x79D...6e1",
+    "balance": 0.0,
+    "tx": 735
+  },
+  {
+    "address": "0x7c2347f23e11310e976532ff606688a57a77a535",
+    "label": "MEV Bot: 0x7c2...535",
+    "balance": 0.0,
+    "tx": 7
+  },
+  {
+    "address": "0x7cf09d7a9a74f746edcb06949b9d64bcd9d1604f",
+    "label": "MEV Bot: 0x7Cf...04f",
+    "balance": 0.0,
+    "tx": 68663
+  },
+  {
+    "address": "0x7e00009e6d00258407c50094680080f5830a00d9",
+    "label": "MEV Bot: 0x7e0...0d9",
+    "balance": 0.0,
+    "tx": 331
+  },
+  {
+    "address": "0x811213d2d0e26ecf65714074cef59119dd7f36d9",
+    "label": "MEV Bot: 0x811...6D9",
+    "balance": 0.0,
+    "tx": 1949
+  },
+  {
+    "address": "0x81153f0889ab398c4acb42cb58b565a5392bba95",
+    "label": "MEV Bot: 0x811...a95",
+    "balance": 0.0,
+    "tx": 50360
+  },
+  {
+    "address": "0x815b2ad3c669df996fc55a9472ad251312476898",
+    "label": "MEV Bot: 0x815...898",
+    "balance": 0.0,
+    "tx": 25
+  },
+  {
+    "address": "0x828a2d99bb1a31ca0eba80f3e01db8dae652a1e3",
+    "label": "MEV Bot: 0x828...1E3",
+    "balance": 0.0,
+    "tx": 3038
+  },
+  {
+    "address": "0x842b9aa0e8e6eb77f16782bd27cb02a97002c4fc",
+    "label": "MEV Bot: 0x842...4Fc",
+    "balance": 0.0,
+    "tx": 3074
+  },
+  {
+    "address": "0x8472ee188899569cf6ef42bb2038facae66972d2",
+    "label": "MEV Bot: 0x847...2d2",
+    "balance": 0.0,
+    "tx": 2387
+  },
+  {
+    "address": "0x84783f7e102ac1e28abe254c7c27d4c01891ca2e",
+    "label": "MEV Bot: 0x847...a2E",
+    "balance": 0.0,
+    "tx": 6334
+  },
+  {
+    "address": "0x85e5c6cffd260a7f153b1f34b36f6dbeba3e279e",
+    "label": "MEV Bot: 0x85e...79e",
+    "balance": 0.0,
+    "tx": 39
+  },
+  {
+    "address": "0x8698d9d5ea99809c00426484a80be2add4e54581",
+    "label": "MEV Bot: 0x869...581",
+    "balance": 0.0,
+    "tx": 13469
+  },
+  {
+    "address": "0x8788a7cfd63cf06d0d7716c6a66f54b58248c896",
+    "label": "MEV Bot: 0x878...896",
+    "balance": 0.0,
+    "tx": 700
+  },
+  {
+    "address": "0x8a9bc155740b096575bfe1ee80f5783eefbbf1d2",
+    "label": "MEV Bot: 0x8a9...1d2",
+    "balance": 0.0,
+    "tx": 90
+  },
+  {
+    "address": "0x8b46e02e2ce66c041ddebeed9734a8deebf1a3ab",
+    "label": "MEV Bot: 0x8b4...3Ab",
+    "balance": 0.0,
+    "tx": 3
+  },
+  {
+    "address": "0x8c3635482f23bd108cfd941736fd15fbd59d53bc",
+    "label": "MEV Bot: 0x8C3...3BC",
+    "balance": 0.0,
+    "tx": 797
+  },
+  {
+    "address": "0x8e60b2b96ea901beb2cafd79b8d0ed249a5efd95",
+    "label": "MEV Bot: 0x8e6...d95",
+    "balance": 0.0,
+    "tx": 56695
+  },
+  {
+    "address": "0x8f44e22ac221cc25a46289d1c307d4f34a4dd6c2",
+    "label": "MEV Bot: 0x8f4...6c2",
+    "balance": 0.0,
+    "tx": 281
+  },
+  {
+    "address": "0x911605012f87a3017322c81fcb4c90ada7c09116",
+    "label": "MEV Bot: 0x911...116",
+    "balance": 0.0,
+    "tx": 54879
+  },
+  {
+    "address": "0x9aa954706326d900fd55e0928a92e3b93ad34dc9",
+    "label": "MEV Bot: 0x9aa...Dc9",
+    "balance": 0.0,
+    "tx": 11
+  },
+  {
+    "address": "0x9be4dd4724d9f13cc05ce25416d9f9bfccd443e0",
+    "label": "MEV Bot: 0x9Be...3e0",
+    "balance": 0.0,
+    "tx": 3
+  },
+  {
+    "address": "0x9e244643b91ecc1498718cb4f5d22d14a9b121a1",
+    "label": "MEV Bot: 0x9e2...1a1",
+    "balance": 0.0,
+    "tx": 585
+  },
+  {
+    "address": "0x9e9346e082d445f08fab1758984a31648c89241a",
+    "label": "MEV Bot: 0x9E9...41A",
+    "balance": 0.0,
+    "tx": 3884
+  },
+  {
+    "address": "0xa1ba2e31d3b58c44293e54a90aaa817b14304e07",
+    "label": "MEV Bot: 0xA1B...E07",
+    "balance": 0.0,
+    "tx": 766
+  },
+  {
+    "address": "0xa75af537fb853bb432f6a51d47d70e349fffc6ba",
+    "label": "MEV Bot: 0xA75...6Ba",
+    "balance": 0.0,
+    "tx": 12165
+  },
+  {
+    "address": "0xac9df97f9cd7a5f66913d107cddd00f40ac9ab4c",
+    "label": "MEV Bot: 0xac9...b4c",
+    "balance": 0.0,
+    "tx": 645
+  },
+  {
+    "address": "0xacd4ec996aad815efe72a11944188c6db6c30176",
+    "label": "MEV Bot: 0xAcD...176",
+    "balance": 0.0,
+    "tx": 545
+  },
+  {
+    "address": "0xaf9642bc3b0daf66a8930d17b99865944df4d60b",
+    "label": "MEV Bot: 0xAf9...60b",
+    "balance": 0.0,
+    "tx": 184
+  },
+  {
+    "address": "0xb3fcd22ffd34d75c979d49e2e5fb3a3405644831",
+    "label": "MEV Bot: 0xB3f...831",
+    "balance": 0.0,
+    "tx": 3947
+  },
+  {
+    "address": "0xb4247d5978060387c0fe91d13a90d5711f65b7ce",
+    "label": "MEV Bot: 0xb42...7CE",
+    "balance": 0.0,
+    "tx": 619
+  },
+  {
+    "address": "0xb4990d3044641456a2509ed0bd709f1176a6a7af",
+    "label": "MEV Bot: 0xb49...7af",
+    "balance": 0.0,
+    "tx": 979
+  },
+  {
+    "address": "0xb5c7ad3cb6506c65da01f2fac2e667dcb9e66e9c",
+    "label": "MEV Bot: 0xB5c...e9c",
+    "balance": 0.0,
+    "tx": 3881
+  },
+  {
+    "address": "0xb807aca3615bb8c93d32d7fb418e69370e1a7c86",
+    "label": "MEV Bot: 0xb80...c86",
+    "balance": 0.0,
+    "tx": 2373
+  },
+  {
+    "address": "0xb91d9b045f8a64bca4c69625b00001109932be34",
+    "label": "MEV Bot: 0xb91...e34",
+    "balance": 0.0,
+    "tx": 173
+  },
+  {
+    "address": "0xba71b56fd0b590ed2a6992ed57a34c1391940513",
+    "label": "MEV Bot: 0xBA7...513",
+    "balance": 0,
+    "tx": 905
+  },
+  {
+    "address": "0xbb5acd74d889da9102d97d5a14de49e6ce710851",
+    "label": "MEV Bot: 0xbB5...851",
+    "balance": 0.0,
+    "tx": 18
+  },
+  {
+    "address": "0xbe69dde0a051e72e18871be52cf506e419058f11",
+    "label": "MEV Bot: 0xBE6...f11",
+    "balance": 0.0,
+    "tx": 878
+  },
+  {
+    "address": "0xbf971824421fa3778cb638bdeb79b8d5223e0fe6",
+    "label": "MEV Bot: 0xbF9...fE6",
+    "balance": 0.0,
+    "tx": 957
+  },
+  {
+    "address": "0xc1374db508b7a3e0cdf061c8d8c1f7a260f231cd",
+    "label": "MEV Bot: 0xc13...1cD",
+    "balance": 0.0,
+    "tx": 334
+  },
+  {
+    "address": "0xc21b472e150669a9e20a1233cad67eced2851ec5",
+    "label": "MEV Bot: 0xc21...ec5",
+    "balance": 0.0,
+    "tx": 69
+  },
+  {
+    "address": "0xc2a54f74ebbbba5ed92d6a0b5dcb0b0ffb96f36e",
+    "label": "MEV Bot: 0xc2A...36e",
+    "balance": 0.0,
+    "tx": 2537
+  },
+  {
+    "address": "0xc358848e138ab73bd5b9ffcced25517f71101fb0",
+    "label": "MEV Bot: 0xc35...fb0",
+    "balance": 0.0,
+    "tx": 5069
+  },
+  {
+    "address": "0xc4595e3966e0ce6e3c46854647611940a09448d3",
+    "label": "MEV Bot: 0xc459...8d3",
+    "balance": 0.0,
+    "tx": 1561
+  },
+  {
+    "address": "0xc5ecee6d94f72b6c456e3032f383284cca36b70a",
+    "label": "MEV Bot: 0xC5E...70a",
+    "balance": 0.0,
+    "tx": 15113
+  },
+  {
+    "address": "0xc8046263d5b5544f6413a98b4693488499195a46",
+    "label": "MEV Bot: 0xC80...A46",
+    "balance": 0.0,
+    "tx": 89875
+  },
+  {
+    "address": "0xc83d02d366b882202828f47a1c6fecb8fee1192e",
+    "label": "MEV Bot: 0xc83...92e",
+    "balance": 0.0,
+    "tx": 91
+  },
+  {
+    "address": "0xc90bffb8955e2d69780de7a43a11cf113d5e476d",
+    "label": "MEV Bot: 0xc90...76d",
+    "balance": 0.0,
+    "tx": 203
+  },
+  {
+    "address": "0xcadf4ffa3c2fc4784ba064928f403aee7b02d80e",
+    "label": "MEV Bot: 0xCaD...80e",
+    "balance": 0.0,
+    "tx": 18132
+  },
+  {
+    "address": "0xcb3a0940df2781ed8c0d07c536f7cc39ed4d933b",
+    "label": "MEV Bot: 0xcb3...33b",
+    "balance": 0.0,
+    "tx": 22
+  },
+  {
+    "address": "0xcbd75d63f98c5ff5d7157edf06abef8a8325c24d",
+    "label": "MEV Bot: 0xCbD...24d",
+    "balance": 0.0,
+    "tx": 19921
+  },
+  {
+    "address": "0xcd9e13b2f3bfc26cd99989fb849a2751932595c4",
+    "label": "MEV Bot: 0xCD9...5C4",
+    "balance": 0.0,
+    "tx": 68778
+  },
+  {
+    "address": "0xcf99a481076186a44070c3158cf75c8cf00f84fc",
+    "label": "MEV Bot: 0xCF9...4FC",
+    "balance": 0.0,
+    "tx": 173
+  },
+  {
+    "address": "0xd234ca832efbd43819dcc96e25d0586d4e5d976f",
+    "label": "MEV Bot: 0xd23...76F",
+    "balance": 0.0,
+    "tx": 262
+  },
+  {
+    "address": "0xd241ed81b52a1b67098072b73f22fda9d253e827",
+    "label": "MEV Bot: 0xD24...827",
+    "balance": 0.0,
+    "tx": 1446
+  },
+  {
+    "address": "0xd434cea7207d2e330dd1129d777191dee6b7c37d",
+    "label": "MEV Bot: 0xD43...37D",
+    "balance": 0.0,
+    "tx": 31
+  },
+  {
+    "address": "0xdd28d64e40e00af54a0b5147539a515c4a0bc1c5",
+    "label": "MEV Bot: 0xDD2...1c5",
+    "balance": 0.0,
+    "tx": 1618
+  },
+  {
+    "address": "0xdd4d3ed43e53185f4dbc467151ab2cb3142def52",
+    "label": "MEV Bot: 0xDd4...f52",
+    "balance": 0.0,
+    "tx": 1850
+  },
+  {
+    "address": "0xdfee68a9adb981cd08699891a11cabe10f25ec44",
+    "label": "MEV Bot: 0xDFe...c44",
+    "balance": 0.0,
+    "tx": 76
+  },
+  {
+    "address": "0xdff523be6002e59a4a2242d99afccb502d4ed020",
+    "label": "MEV Bot: 0xDfF...020",
+    "balance": 0.0,
+    "tx": 312
+  },
+  {
+    "address": "0xe06ffa8146bbdeccbaaf72b6043b29091071aeb8",
+    "label": "MEV Bot: 0xE06...EB8",
+    "balance": 0.0,
+    "tx": 15717
+  },
+  {
+    "address": "0xe07025d4ce7881b7f50d4d6b954e43590dcb1092",
+    "label": "MEV Bot: 0xe07...092",
+    "balance": 0.0,
+    "tx": 7742
+  },
+  {
+    "address": "0xe0a9efe32985cc306255b395a1bd06d21ccead42",
+    "label": "MEV Bot: 0xe0a...d42",
+    "balance": 0.0,
+    "tx": 7665
+  },
+  {
+    "address": "0xe35f24470730f5a488da9721548c1ab0b65b53d5",
+    "label": "MEV Bot: 0xe35...3d5",
+    "balance": 0.0,
+    "tx": 1314
+  },
+  {
+    "address": "0xe37b5e4de6c4c6e3a1b5d914722a7daaf37590d0",
+    "label": "MEV Bot: 0xE37...0d0",
+    "balance": 0.0,
+    "tx": 33184
+  },
+  {
+    "address": "0xe8c060f8052e07423f71d445277c61ac5138a2e5",
+    "label": "MEV Bot: 0xE8c...2e5",
+    "balance": 0.0,
+    "tx": 57642
+  },
+  {
+    "address": "0xede2fafba9e23418485f49f052d0e1d332853e0f",
+    "label": "MEV Bot: 0xEdE...E0F",
+    "balance": 0.0,
+    "tx": 2616
+  },
+  {
+    "address": "0xeef86c2e49e11345f1a693675df9a38f7d880c8f",
+    "label": "MEV Bot: 0xeef...c8f",
+    "balance": 0.0,
+    "tx": 43994
+  },
+  {
+    "address": "0xef6e90098e54aa0cbb26c5cc68e040a59fad8758",
+    "label": "MEV Bot: 0xef6...758",
+    "balance": 0.0,
+    "tx": 41
+  },
+  {
+    "address": "0xf1243ea5b8b1ec27ee03c1c158a86470726e2905",
+    "label": "MEV Bot: 0xf12...905",
+    "balance": 0.0,
+    "tx": 57
+  },
+  {
+    "address": "0xf17131e60edb07d73f812058d50992639987665b",
+    "label": "MEV Bot: 0xF17...65B",
+    "balance": 0.0,
+    "tx": 94
+  },
+  {
+    "address": "0xf2a0aaecaeef1a00d1eb6178fb30de5695519abf",
+    "label": "MEV Bot: 0xF2a...aBF",
+    "balance": 0.0,
+    "tx": 201
+  },
+  {
+    "address": "0xf3b2d1395cb4536a931b2fa53dc7687e4c6f5411",
+    "label": "MEV Bot: 0xf3B...411",
+    "balance": 0.0,
+    "tx": 11
+  },
+  {
+    "address": "0xf7c517e7e545d8f3286d336372b65995b81b91c2",
+    "label": "MEV Bot: 0xf7c...1c2",
+    "balance": 0.0,
+    "tx": 548
+  },
+  {
+    "address": "0xfbf6b914a5c1355db7a6aa63df81f24aca987358",
+    "label": "MEV Bot: 0xFbf...358",
+    "balance": 0.0,
+    "tx": 1073
+  },
+  {
+    "address": "0xff2fbc735d33ae830f056107f1b551783ec4ed5b",
+    "label": "MEV Bot: 0xFf2...d5B",
+    "balance": 0.0,
+    "tx": 1156
+  },
+  {
+    "address": "0xff62dfadca3b5643d0b283571fe154d886580c0c",
+    "label": "MEV Bot: 0xFf6...c0c",
+    "balance": 0.0,
+    "tx": 17
+  },
+  {
+    "address": "0x93f9a668dccc090f63b0ec27d809527dc2f0ebba",
+    "label": "Multichain (Anyswap): Whitehat Rescue 3",
+    "balance": 0,
+    "tx": 67
+  }
 ]
