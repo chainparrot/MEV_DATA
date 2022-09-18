@@ -49,7 +49,11 @@
     "cumulativeGasUsed": "16076486",
     "input": "deprecated",
     "confirmations": "15",
-    "balanceUSD": 1292314.6835857225
+    "balanceUSD": 1292314.6835857225,
+    "actions": [
+      "Swap1.34511407EtherFor1,798.3665878ORNOnUniswap V2",
+      "Swap2,006.553213USDTFor1.377260184983923412EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x860bd2dba9cd475a61e6d1b45e16c365f6d78f66",
@@ -75,7 +79,11 @@
     "cumulativeGasUsed": "7741841",
     "input": "deprecated",
     "confirmations": "45",
-    "balanceUSD": 231313.13166002938
+    "balanceUSD": 231313.13166002938,
+    "actions": [
+      "Swap6.037916882039458148SFIFor0.247036145417650712EtherOnUniswap V2",
+      "Swap0.23580094497789971EtherFor6.037916882039458148SFIOnSushiswap"
+    ]
   },
   {
     "address": "0xbeefbabeea323f07c59926295205d3b7a17e8638",
@@ -101,7 +109,11 @@
     "cumulativeGasUsed": "903924",
     "input": "deprecated",
     "confirmations": "73",
-    "balanceUSD": 214005.9634765398
+    "balanceUSD": 214005.9634765398,
+    "actions": [
+      "From MEV Bot: 0xBEE...638To Curve.fi: USDT/WBTC/WETH Pool For 61.349863013698633728  ($89,218.04)Wrapped Ethe... (WETH)",
+      "From Curve.fi: USDT/WBTC/WETH PoolTo MEV Bot: 0xBEE...638 For 89,292.608894  ($89,381.90)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0x0000000000a84d1a9b0063a910315c7ffa9cd248",
@@ -127,7 +139,11 @@
     "cumulativeGasUsed": "1072912",
     "input": "deprecated",
     "confirmations": "1350",
-    "balanceUSD": 175553.6844495492
+    "balanceUSD": 175553.6844495492,
+    "actions": [
+      "Swap0.35724854EtherFor0.76048349487148748MKROnUniswap V3",
+      "Swap1,149.901954170459428503CVPFor0.36177231986237597EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x000000000025d4386f7fb58984cbe110aee3a4c4",
@@ -153,7 +169,10 @@
     "cumulativeGasUsed": "1112003",
     "input": "deprecated",
     "confirmations": "725879",
-    "balanceUSD": 167685.9572951046
+    "balanceUSD": 167685.9572951046,
+    "actions": [
+      "Swap3.33000953984252239EtherFor5,875.489195SRMOnSushiswap"
+    ]
   },
   {
     "address": "0x5aa3393e361c2eb342408559309b3e873cd876d6",
@@ -179,7 +198,11 @@
     "cumulativeGasUsed": "368093",
     "input": "deprecated",
     "confirmations": "22010",
-    "balanceUSD": 149341.2203507616
+    "balanceUSD": 149341.2203507616,
+    "actions": [
+      "Swap0.408760400944489651EtherFor246.3446CELOnUniswap V3",
+      "Swap246.3446CELFor0.412108035183303964EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x0000000000000eb4ec62758aae93400b3e5f7f18",
@@ -205,7 +228,12 @@
     "cumulativeGasUsed": "1416545",
     "input": "deprecated",
     "confirmations": "111341",
-    "balanceUSD": 142054.3065492432
+    "balanceUSD": 142054.3065492432,
+    "actions": [
+      "Swap2.91700352USVFor346.561983696595320309DAIOnSushiswap",
+      "Swap346.561983696595320309DAIFor94.338908909936624441HEZOnUniswap V2",
+      "Swap94.338908909936624441HEZFor0.221523271999719543EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xa57bd00134b2850b2a1c55860c9e9ea100fdd6cf",
@@ -231,7 +259,12 @@
     "cumulativeGasUsed": "11141949",
     "input": "deprecated",
     "confirmations": "42",
-    "balanceUSD": 110689.426431882
+    "balanceUSD": 110689.426431882,
+    "actions": [
+      "From 0x56178a0d5f301baf6cf3e1cd53d9863437345bf9To MEV Bot: 0xa57...6CF For 1.302091302165614013  ($1,893.57)Wrapped Ethe... (WETH)",
+      "From MEV Bot: 0xa57...6CFTo Balancer: Vault For 1.302091302165614013  ($1,893.57)Wrapped Ethe... (WETH)",
+      "From Balancer: VaultTo 0x56178a0d5f301baf6cf3e1cd53d9863437345bf9 For 998.817495716639834091  ($1,887.77)Lido DAO Tok... (LDO)"
+    ]
   },
   {
     "address": "0x57c1e0c2adf6eecdb135bcf9ec5f23b319be2c94",
@@ -257,7 +290,10 @@
     "cumulativeGasUsed": "144710",
     "input": "deprecated",
     "confirmations": "25",
-    "balanceUSD": 103369.6414379376
+    "balanceUSD": 103369.6414379376,
+    "actions": [
+      "Swap42.115902140966252144EtherFor73,718.671130947043876501MATICOnUniswap V3"
+    ]
   },
   {
     "address": "0x000000000035b5e5ad9019092c665357240f594e",
@@ -283,7 +319,10 @@
     "cumulativeGasUsed": "325812",
     "input": "deprecated",
     "confirmations": "42",
-    "balanceUSD": 77698.26760652101
+    "balanceUSD": 77698.26760652101,
+    "actions": [
+      "Swap1,004,791,955.319564618583414768STATEFor1.184659149739866636EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xa69babef1ca67a37ffaf7a485dfff3382056e78c",
@@ -309,7 +348,10 @@
     "cumulativeGasUsed": "14312737",
     "input": "deprecated",
     "confirmations": "2",
-    "balanceUSD": 77631.71609000339
+    "balanceUSD": 77631.71609000339,
+    "actions": [
+      "Swap17.007702329249999706EtherFor24,751.23968USDCOnUniswap V3"
+    ]
   },
   {
     "address": "0xf71530c1f043703085b42608ff9dcccc43210a8e",
@@ -335,7 +377,12 @@
     "cumulativeGasUsed": "13441138",
     "input": "deprecated",
     "confirmations": "74",
-    "balanceUSD": 72571.9613362308
+    "balanceUSD": 72571.9613362308,
+    "actions": [
+      "Swap30,662.25868995HEXFor300,900,270.007848014HDRNOnUniswap V2",
+      "Swap300,900,270.007848014HDRNFor0.74013814395521421EtherOnUniswap V3",
+      "Swap0.735689319527760268EtherFor30,662.25868995HEXOnUniswap V3"
+    ]
   },
   {
     "address": "0xf6d78d9c50ffbc2917e374fd185b8ff89c55effc",
@@ -387,7 +434,10 @@
     "cumulativeGasUsed": "119237",
     "input": "deprecated",
     "confirmations": "131",
-    "balanceUSD": 63988.335201819595
+    "balanceUSD": 63988.335201819595,
+    "actions": [
+      "Swap1.2021129711424194EtherFor222,610.987265960966042271BONDLYOnUniswap V2"
+    ]
   },
   {
     "address": "0x000000000000660def84e69995117c0176ba446e",
@@ -413,7 +463,13 @@
     "cumulativeGasUsed": "344874",
     "input": "deprecated",
     "confirmations": "6",
-    "balanceUSD": 63410.6656540548
+    "balanceUSD": 63410.6656540548,
+    "actions": [
+      "Transfer ofGNSS(GNSS)From0x1372d4b8c5fecaa8571632cdee93b0d8dadebf9fTo0x000000000000660def84e69995117c0176ba446e",
+      "1of Token ID [4997]",
+      "Transfer ofGNSS(GNSS)From0x000000000000660def84e69995117c0176ba446eTo0x3832fa6e720000f8fdd86a4fc4a71c805050350f",
+      "1of Token ID [4997]"
+    ]
   },
   {
     "address": "0x761d80987a36fc271875ea4de17539e8c82ae51d",
@@ -439,7 +495,12 @@
     "cumulativeGasUsed": "1552455",
     "input": "deprecated",
     "confirmations": "826",
-    "balanceUSD": 55501.76064065399
+    "balanceUSD": 55501.76064065399,
+    "actions": [
+      "Swap4.199017117416792034EtherFor6,126.949652USDCOnUniswap V3",
+      "Swap6,126.949652USDCFor0.237914778250201927XMONOnUniswap V3",
+      "Swap0.237914778250201927XMONFor4.228864595557654155EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000e0ca771e21bd00057f54a68c30d400000000",
@@ -465,7 +526,10 @@
     "cumulativeGasUsed": "2890951",
     "input": "deprecated",
     "confirmations": "60",
-    "balanceUSD": 48675.42993338461
+    "balanceUSD": 48675.42993338461,
+    "actions": [
+      "Swap110.134513USDTFor8,030.972258223298574517VROnUniswap V2"
+    ]
   },
   {
     "address": "0xd8c07491caa1edf960db3ceff387426d53942ea0",
@@ -491,7 +555,10 @@
     "cumulativeGasUsed": "19068812",
     "input": "deprecated",
     "confirmations": "21997",
-    "balanceUSD": 42789.7951120188
+    "balanceUSD": 42789.7951120188,
+    "actions": [
+      "From MEV Bot: 0xd8c...ea0To 0xa2f729de17d62a7c0049bafc50c5585749085136 For 112,070  ($112,070.00)Dai Stableco... (DAI)"
+    ]
   },
   {
     "address": "0xe9137b423713667f6c3ac6565b81aa005640212c",
@@ -524,7 +591,10 @@
     "cumulativeGasUsed": "1357215",
     "input": "deprecated",
     "confirmations": "7",
-    "balanceUSD": 29105.9266411278
+    "balanceUSD": 29105.9266411278,
+    "actions": [
+      "Swap62.0077304667782AAVEFor831.926872881419007248UNIOnUniswap V3"
+    ]
   },
   {
     "address": "0x98c3d3183c4b8a650614ad179a1a98be0a8d6b8e",
@@ -550,7 +620,10 @@
     "cumulativeGasUsed": "3310458",
     "input": "deprecated",
     "confirmations": "3",
-    "balanceUSD": 27804.101500452598
+    "balanceUSD": 27804.101500452598,
+    "actions": [
+      "Swap19,714MATICFor11.233800983708413543EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x000000000b8a22fdae0233faa785df7974ff0391",
@@ -576,7 +649,10 @@
     "cumulativeGasUsed": "347220",
     "input": "deprecated",
     "confirmations": "7885",
-    "balanceUSD": 27283.447212143397
+    "balanceUSD": 27283.447212143397,
+    "actions": [
+      "Swap10.35326756WBTCFor143.456520760569942163EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x91000060399502550000007bbfba0052f47b008a",
@@ -602,7 +678,10 @@
     "cumulativeGasUsed": "1239834",
     "input": "deprecated",
     "confirmations": "474",
-    "balanceUSD": 26201.057824587602
+    "balanceUSD": 26201.057824587602,
+    "actions": [
+      "Swap36.437847614736700371INCHFor0.015794199737957787EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x0000000099cb7fc48a935bceb9f05bbae54e8987",
@@ -654,7 +733,12 @@
     "cumulativeGasUsed": "506513",
     "input": "deprecated",
     "confirmations": "460",
-    "balanceUSD": 14050.8251081172
+    "balanceUSD": 14050.8251081172,
+    "actions": [
+      "Collect0.000000017927873484COMPFor Supplying0EtherOnCompound",
+      "Collect0.000020710381414466COMPFor Supplying0EtherOnCompound",
+      "Swap0.027052309781802615EtherFor1.38487249cETHOnUniswap V2"
+    ]
   },
   {
     "address": "0x9799b475dec92bd99bbdd943013325c36157f383",
@@ -713,7 +797,12 @@
     "cumulativeGasUsed": "1519805",
     "input": "deprecated",
     "confirmations": "515481",
-    "balanceUSD": 8791.6405360716
+    "balanceUSD": 8791.6405360716,
+    "actions": [
+      "Swap0.588420068359375EtherFor1,359.457883980257433318GODSOnSushiswap",
+      "Swap1,359.457883980257433318GODSFor753.675260304720531955IMXOnUniswap V3",
+      "Swap753.675260304720531955IMXFor0.59705917270034209EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x0000000000710a9c1f6db5f504be77ffb3b583ec",
@@ -739,7 +828,10 @@
     "cumulativeGasUsed": "18960016",
     "input": "deprecated",
     "confirmations": "98921",
-    "balanceUSD": 8740.44
+    "balanceUSD": 8740.44,
+    "actions": [
+      "From MEV Bot: 0x000...3ecTo 0x2222222229b89c7844f19ef503c4dc503be47f84 For 14.986738188899019654  ($21,794.46)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a",
@@ -765,7 +857,11 @@
     "cumulativeGasUsed": "1005139",
     "input": "deprecated",
     "confirmations": "42",
-    "balanceUSD": 7783.9930837116
+    "balanceUSD": 7783.9930837116,
+    "actions": [
+      "Swap0.4357784798806645EtherFor2,068.960875818988343451MYSTOnUniswap V2",
+      "Swap2,068.960875818988343451MYSTFor0.446720976247044EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x4cadecc51feb5c1f6d9a902ecc817a1b8c2246f9",
@@ -817,7 +913,13 @@
     "cumulativeGasUsed": "20999870",
     "input": "deprecated",
     "confirmations": "27",
-    "balanceUSD": 5722.6264748424
+    "balanceUSD": 5722.6264748424,
+    "actions": [
+      "Liquidator Repay50.84GUSDToAave Protocol V2",
+      "Liquidation0.036726482529032889EtherOnAave Protocol V2",
+      "Swap0.035132975628218962EtherFor51.13124USDCOnUniswap V3",
+      "Swap51.131335USDCFor50.84GUSDOnUniswap V3"
+    ]
   },
   {
     "address": "0x7719494eb8f3ca261f5c806d754853dc5ce2edf7",
@@ -843,7 +945,10 @@
     "cumulativeGasUsed": "2059110",
     "input": "deprecated",
     "confirmations": "1383",
-    "balanceUSD": 5045.635199350801
+    "balanceUSD": 5045.635199350801,
+    "actions": [
+      "Swap0.585395885902668404EtherFor17.287582303OHMOnUniswap V3"
+    ]
   },
   {
     "address": "0x4fce027bc57d7530b84527f4848983cece4df15e",
@@ -869,7 +974,11 @@
     "cumulativeGasUsed": "1612421",
     "input": "deprecated",
     "confirmations": "27593",
-    "balanceUSD": 3487.3653305646
+    "balanceUSD": 3487.3653305646,
+    "actions": [
+      "Swap0.063137616158379222EtherFor12,409.620680414912385413MFTOnUniswap V3",
+      "Swap12,409.620680414912385413MFTFor0.067353624616778049EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x507888e987257a8dde6f8afa46375cefe2cbf504",
@@ -895,7 +1004,12 @@
     "cumulativeGasUsed": "1257939",
     "input": "deprecated",
     "confirmations": "882",
-    "balanceUSD": 2918.839200786
+    "balanceUSD": 2918.839200786,
+    "actions": [
+      "Swap0.158560611671146345EtherFor741,068.915546118657487445LUNCOnUniswap V2",
+      "Swap741,068.915546118657487445LUNCFor247.670923348434204996BUSDOnUniswap V3",
+      "Swap247.670923348434204996BUSDFor0.16424804573762686EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x99999999d116ffa7d76590de2f427d8e15aeb0b8",
@@ -921,7 +1035,10 @@
     "cumulativeGasUsed": "134892",
     "input": "deprecated",
     "confirmations": "62",
-    "balanceUSD": 2311.8045424272
+    "balanceUSD": 2311.8045424272,
+    "actions": [
+      "Swap24,181.360201511337LOOKSFor4.135237067831275745EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x70d772361eb567eb45da56e147e5224e2abedeba",
@@ -947,7 +1064,12 @@
     "cumulativeGasUsed": "1345263",
     "input": "deprecated",
     "confirmations": "10321",
-    "balanceUSD": 2185.11
+    "balanceUSD": 2185.11,
+    "actions": [
+      "Swap9,239.701713371039782883BONEFor13,366.606691USDCOnUniswap V3",
+      "Swap13,366.606691USDCFor13,360.851231329061593655DAIOnUniswap V3",
+      "Swap13,360.851231329061593655DAIFor9.273891253971951974EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x5492a302991751fd6b5c051d85be48acc9fec4d3",
@@ -999,7 +1121,14 @@
     "cumulativeGasUsed": "1553614",
     "input": "deprecated",
     "confirmations": "306553",
-    "balanceUSD": 1458.4920503328
+    "balanceUSD": 1458.4920503328,
+    "actions": [
+      "Swap3,259.684100604741318367agEURFor3,318.010097USDCOnUniswap V3",
+      "Swap3,318.010097USDCFor2,227.016867018297302496SYNOnSushiswap",
+      "Swap3,334.391041020089382233FRAXFor3,332.11484USDCOnUniswap V3",
+      "Swap3,332.11484USDCFor1.960267290271957395EtherOnUniswap V3",
+      "Swap1.95EtherFor3,259.684100604741318367agEUROnUniswap V3"
+    ]
   },
   {
     "address": "0x87d9da48db6e1f925cb67d3b7d2a292846c24cf7",
@@ -1025,7 +1154,10 @@
     "cumulativeGasUsed": "751781",
     "input": "deprecated",
     "confirmations": "19",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.23571524023204354EtherFor149,185.851437028102903912CRZOnUniswap V2"
+    ]
   },
   {
     "address": "0x0c3de458b51a11da7d4616f42f66c861e3859d3e",
@@ -1051,7 +1183,10 @@
     "cumulativeGasUsed": "661165",
     "input": "deprecated",
     "confirmations": "72",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1.440616764970070528EtherFor6,628.787878787876375764MYSTOnUniswap V3"
+    ]
   },
   {
     "address": "0xe1f08d771fb7b248b3266b7f79a9eafba3147c2d",
@@ -1077,7 +1212,10 @@
     "cumulativeGasUsed": "1822104",
     "input": "deprecated",
     "confirmations": "147",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.27867763378936032EtherFor29,484.90263834CovalOnUniswap V2"
+    ]
   },
   {
     "address": "0x80d4230c0a68fc59cb264329d3a717fcaa472a13",
@@ -1103,7 +1241,12 @@
     "cumulativeGasUsed": "2833950",
     "input": "deprecated",
     "confirmations": "185",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap2,981.032984USDCFor2.045672699509929672EtherOnUniswap V3",
+      "Swap2.045672699509929672EtherFor39.533057710296114546FOLDOnSushiswap",
+      "Swap39.533057710296114446FOLDFor2,995.857025USDCOnUniswap V3"
+    ]
   },
   {
     "address": "0xbfef411d9ae30c5b471d529c838f1abb7b65d67f",
@@ -1155,7 +1298,10 @@
     "cumulativeGasUsed": "7333535",
     "input": "deprecated",
     "confirmations": "2475",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap199.027278USDCFor0.137174197012652691EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x0ef8b4525c69bfa7bdece3ab09f95bbf0944b783",
@@ -1181,7 +1327,13 @@
     "cumulativeGasUsed": "1343098",
     "input": "deprecated",
     "confirmations": "2529",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap133,104.314520185462675809IQFor0.536406068690293521EtherOnSushiswap",
+      "Swap0.536406068690293521EtherFor29,900.902947739855627115RLYOnBalancer",
+      "Swap29,900.902947739855627115RLYFor0.537520970087408741EtherOnUniswap V2",
+      "Swap770.89524USDCFor513.958170933440198763SYNOnSushiswap"
+    ]
   },
   {
     "address": "0x73f78d23370386cbcecd24ab3fa5da63be80f0e8",
@@ -1214,7 +1366,11 @@
     "cumulativeGasUsed": "17464261",
     "input": "deprecated",
     "confirmations": "28",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x4a1...6b6To Balancer: Vault For 0.201000000000000512  ($292.47)Wrapped Ethe... (WETH)",
+      "From Balancer: VaultTo MEV Bot: 0x4a1...6b6 For 352.792027260201233564  ($290.36)Matic Token (MATIC)"
+    ]
   },
   {
     "address": "0x0eae044f00b0af300500f090ea00027097d03000",
@@ -1240,7 +1396,14 @@
     "cumulativeGasUsed": "26606089",
     "input": "deprecated",
     "confirmations": "50",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.021052376937883089EtherFor3,689.596794122PZENOnUniswap V2",
+      "Swap3,611.518429559PZENFor32.215151USDCOnUniswap V2",
+      "Swap249.540428USDTFor4,147.73767066AGIXOnUniswap V2",
+      "Swap4,147.73767066AGIXFor0.171923396577817535EtherOnUniswap V2",
+      "Swap0.171472600021349302EtherFor249.540428USDTOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000000000d9455cc7eb92d06e00582a982f68fe",
@@ -1266,7 +1429,10 @@
     "cumulativeGasUsed": "3886021",
     "input": "deprecated",
     "confirmations": "432",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...8feTo 0x4ecde565958dd14ac37dcc9d3d08125f17c7aaaf For 14,730.959216  ($14,745.69)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0xd89a0a4f088d9e47710e14257d4c5a7f9fd63c6d",
@@ -1299,7 +1465,10 @@
     "cumulativeGasUsed": "24838246",
     "input": "deprecated",
     "confirmations": "87027",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x46a...F46To 0x7f96a7500c16a768a68e8504b602f73da3cefb7a For 0.534140178573914941  ($777.21)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x00000000002d383933aa1609f11d0afa4d5ea90a",
@@ -1325,7 +1494,10 @@
     "cumulativeGasUsed": "12326263",
     "input": "deprecated",
     "confirmations": "430",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...90ATo 0x4ecde565958dd14ac37dcc9d3d08125f17c7aaaf For 15,095.785899  ($15,110.88)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0x000000000042c71e9b847fb1533270360a7b2cbf",
@@ -1351,7 +1523,10 @@
     "cumulativeGasUsed": "7668570",
     "input": "deprecated",
     "confirmations": "426",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...CbfTo 0x4ecde565958dd14ac37dcc9d3d08125f17c7aaaf For 14,975.085254  ($14,990.06)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0xef1de056b83032d6d19796ef85e7e60d72281968",
@@ -1417,7 +1592,10 @@
     "cumulativeGasUsed": "3784989",
     "input": "deprecated",
     "confirmations": "107589",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x83D...967To 0x6b8fa3e8e2fdabc3d9cd5985ee294aa44b82b351 For 1  ($1.00)USD Coin (USDC)"
+    ]
   },
   {
     "address": "0x563bdabaa8846ec445b25bfbed88d160890a02ed",
@@ -1443,7 +1621,10 @@
     "cumulativeGasUsed": "4308884",
     "input": "deprecated",
     "confirmations": "371950",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x563...2edTo 0x70e09d65f26dc741d35667926fdeeca3b263734a For 12,582.400717  ($12,594.98)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0x4083d4ef32631ed3394cc1b11efb03ceebcd2f6c",
@@ -1476,7 +1657,15 @@
     "cumulativeGasUsed": "27301427",
     "input": "deprecated",
     "confirmations": "340016",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 1,437.491526  ($1,438.93)Tether USD (USDT)",
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 0.21098278  ($4,239.07)Wrapped BTC (WBTC)",
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 1,589.143686808428648141  ($1,706.01)Curve DAO To... (CRV)",
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 0.00517054  ($103.95)renBTC (renBTC)",
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 0.002091559445013436  ($42.21)Synth sBTC (sBTC)",
+      "From MEV Bot: 0x0A4...f60To 0x4dead071740091b114b8a3f6f82f8fb380c731c1 For 289.223337  ($289.22)USD Coin (USDC)"
+    ]
   },
   {
     "address": "0x000000000085359dbc0eb45911e5f3f7a532a07e",
@@ -1502,7 +1691,11 @@
     "cumulativeGasUsed": "1150844",
     "input": "deprecated",
     "confirmations": "1786687",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1.067232175781111335EtherFor40.175714111688162126MUSTOnUniswap V2",
+      "Swap40.175714111688162126MUSTFor1.138051022771012143EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x0000000000a18ba8ff557c143927bd3b2593bf7a",
@@ -1528,7 +1721,11 @@
     "cumulativeGasUsed": "1496537",
     "input": "deprecated",
     "confirmations": "2131984",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap4.17706343848582516EtherFor5,156.782884458144481352SYNOnSushiswap",
+      "Swap0.262255703199162031SYNFor0.000212390576790375EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0xd59e5b41482ee6283c22e1a6a20756da512ffa97",
@@ -1554,7 +1751,10 @@
     "cumulativeGasUsed": "402622",
     "input": "deprecated",
     "confirmations": "2347785",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1,827.604SRMFor6.228369290795887989EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xeb4c5ab9b36437f969888be99af42fc9087005a5",
@@ -1613,7 +1813,13 @@
     "cumulativeGasUsed": "696299",
     "input": "deprecated",
     "confirmations": "5137",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofCheeky Chimp...(CCC)From0xd134fb83385188c3d45753f4741e0e92434d4825To0x0000000009cb38fb8a1bbb8ada23c8261118f019",
+      "1of Token ID [90]",
+      "Transfer ofCheeky Chimp...(CCC)From0x0000000009cb38fb8a1bbb8ada23c8261118f019To0x282e19afa8405f418b5be9dbfd42df80d120341e",
+      "1of Token ID [90]"
+    ]
   },
   {
     "address": "0x000000000000084e91743124a982076c59f10084",
@@ -1639,7 +1845,10 @@
     "cumulativeGasUsed": "12307010",
     "input": "deprecated",
     "confirmations": "784",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap21,579.634030162HRDFor11.484522884128247716EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x000000000a08a7ca00e4239dd97d8542c51b9086",
@@ -1665,7 +1874,11 @@
     "cumulativeGasUsed": "295510",
     "input": "deprecated",
     "confirmations": "85626",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap334.25USDTFor0.212717206113840263EtherOnSushiswap",
+      "Swap0.20572265083028412EtherFor1,420,562.5AMNOnUniswap V2"
+    ]
   },
   {
     "address": "0x0000007c68390193776e8b44df3b698d311070b9",
@@ -1717,7 +1930,13 @@
     "cumulativeGasUsed": "312128",
     "input": "deprecated",
     "confirmations": "1944488",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Collect0.000203343665585009COMPFor Supplying0EtherOnCompound",
+      "Collect0.000000000000323961COMPFor Supplying0EtherOnCompound",
+      "Collect0.000004880318504906COMPFor Supplying0EtherOnCompound",
+      "Swap5.54048135cETHFor0.105650532980965834EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x00000000003eea204b86b877632d9ee88b179150",
@@ -1743,7 +1962,11 @@
     "cumulativeGasUsed": "1628603",
     "input": "deprecated",
     "confirmations": "1632981",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.108553502847009043EtherFor735.230653274846319909GLMOnSushiswap",
+      "Swap735.230653274846319909GLMFor0.117372680561921446EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x000000004b614af95d1bb7c236a3aa800b722173",
@@ -1769,7 +1992,11 @@
     "cumulativeGasUsed": "182422",
     "input": "deprecated",
     "confirmations": "1527513",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap6,543.003064773504032683LOOKSFor10.428339579126113956EtherOnUniswap V2",
+      "Swap10.376293541461622784EtherFor6,543.003064773504032683LOOKSOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000000000d41c96294ccdac8612bdfe29c641af",
@@ -1795,7 +2022,10 @@
     "cumulativeGasUsed": "332625",
     "input": "deprecated",
     "confirmations": "4648",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap9.65067985944831851EtherFor0.7035118WBTCOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000000084f794716fa5485d1424b8bd562291f9",
@@ -1821,7 +2051,13 @@
     "cumulativeGasUsed": "877361",
     "input": "deprecated",
     "confirmations": "970509",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...1f9To 0xe33e09fbd59ba35b3c88912da8bb3213aaa1418e For 0.202879562644680568  ($295.20)Wrapped Ethe... (WETH)",
+      "From 0xe33e09fbd59ba35b3c88912da8bb3213aaa1418eTo 0x3c7804cb984d9cb03656869424c3f85d8003ab17 For 11,920.671660526308056193 Bitberryswap (BBS)",
+      "From 0x3c7804cb984d9cb03656869424c3f85d8003ab17To 0x703b120f15ab77b986a24c6f9262364d02f9432f For 633.105221  ($633.74)Tether USD (USDT)",
+      "From 0x703b120f15ab77b986a24c6f9262364d02f9432fTo MEV Bot: 0x000...1f9 For 0.208512450549503781  ($303.40)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x00000000000c66b8cb2836c3620f88a9c812d208",
@@ -1847,7 +2083,12 @@
     "cumulativeGasUsed": "3169360",
     "input": "deprecated",
     "confirmations": "1790947",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap7.619708776411477003EtherFor45,770.461556XSGDOnUniswap V3",
+      "Swap45,770.461556XSGDFor33,558.731096USDCOnUniswap V3",
+      "Swap33,558.683004USDCFor7.639952074462411134EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000000000b92ac90d898eba87fa5f2483f32234",
@@ -1873,7 +2114,10 @@
     "cumulativeGasUsed": "14918323",
     "input": "deprecated",
     "confirmations": "182533",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...234To 0x7dd6f92611a74612504bd8712a3ba3f2229095e7 For 4.847439012100507577  ($7,053.31)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x00000000000a47b1298f18cf67de547bbe0d723f",
@@ -1899,7 +2143,11 @@
     "cumulativeGasUsed": "7855904",
     "input": "deprecated",
     "confirmations": "345",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap2.743600000000001273EtherFor7,179.862699924109920778RAILOnSushiswap",
+      "Swap7,179.862699924109920778RAILFor2.7575289752146556EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x0000004f2f05a8223b89edb700848d70970742bf",
@@ -1925,7 +2173,14 @@
     "cumulativeGasUsed": "740821",
     "input": "deprecated",
     "confirmations": "23787",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1.001EtherFor53.62299156635301122RPLOnUniswap V2",
+      "Swap53.622991566353011202RPLFor53.584870326294736556RPLOnUniswap V3",
+      "Swap53.584870326294736556RPLFor1.003854797790112353EtherOnUniswap V3",
+      "Swap0.392EtherFor52,665,991.133556006013812467SHIBOnUniswap V2",
+      "Swap1.126315288794987507LEASHFor0.394101113391567534EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x00000000f6e788341c1acb3c2d49fa9263b8a2f7",
@@ -1951,7 +2206,10 @@
     "cumulativeGasUsed": "1742394",
     "input": "deprecated",
     "confirmations": "621915",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x000...2F7To 0xc828665c57fc3a042c3354d4cd953d5b74443eae For 1,003.193871  ($1,003.19)USD Coin (USDC)"
+    ]
   },
   {
     "address": "0x0000000050fd1220ecf21d84687ebad194fd537f",
@@ -3879,7 +4137,13 @@
     "cumulativeGasUsed": "656915",
     "input": "deprecated",
     "confirmations": "1474974",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap4.927053EtherFor12,278.526146USDCOnUniswap V3",
+      "Swap12,278.526146USDCFor12,274.79202735592759311FEIOnUniswap V3",
+      "Swap12,274.79202735592759311FEIFor1,099.344686219091983698193612NEAROnUniswap V2",
+      "Swap1,099.344686219091983698193612NEARFor4.970948243869560842EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x51399b32cd0186bb32230e24167489f3b2f47870",
@@ -3905,7 +4169,11 @@
     "cumulativeGasUsed": "501170",
     "input": "deprecated",
     "confirmations": "1346147",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From Null Address: 0x000\u2026000To MEV Bot: 0x513...870 For 17,838,989.640768344514287183  ($106,379.43)Reserve Righ... (RSR)",
+      "From MEV Bot: 0x513...870To 0x422162745b12b8c58d19e348d7c8c134bbedf886 For 17,838,989.640768344514287183  ($106,379.43)Reserve Righ... (RSR)"
+    ]
   },
   {
     "address": "0x553eea17185e5ae6bb72f9528a4c3fc1a844b859",
@@ -3931,7 +4199,13 @@
     "cumulativeGasUsed": "349999",
     "input": "deprecated",
     "confirmations": "495086",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofTennis Champ...(CHAMPS)From0x9490e28dcc3cc6280dd7c9d20b9a56424fb657cfTo0x553eea17185e5ae6bb72f9528a4c3fc1a844b859",
+      "1of Token ID [2418]",
+      "Transfer ofTennis Champ...(CHAMPS)From0x553eea17185e5ae6bb72f9528a4c3fc1a844b859To0x34736fdc6f4d731629ceefc058abc2ff09c0cc49",
+      "1of Token ID [2418]"
+    ]
   },
   {
     "address": "0x55eb58655f8202ff839487886fedba2a1eb7b2d7",
@@ -3957,7 +4231,11 @@
     "cumulativeGasUsed": "487382",
     "input": "deprecated",
     "confirmations": "843755",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.219937758426996936EtherFor7,249.378278363553469142BZRXOnUniswap V2",
+      "Swap7,249.378278363553469142BZRXFor24.807496926510360742EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x5cacdfb236e4bfdd5f9ed992a998cc99aed5b4d9",
@@ -3983,7 +4261,11 @@
     "cumulativeGasUsed": "1269830",
     "input": "deprecated",
     "confirmations": "754364",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap7,542.215006000000270336NUFor0.785155324072205617WETHOn0x Protocol",
+      "Swap0.760008EtherFor7,542.215006759578970687NUOnUniswap V3"
+    ]
   },
   {
     "address": "0x5e767aa6204ece873c7d9405c4bca49cd3e0bf39",
@@ -4035,7 +4317,10 @@
     "cumulativeGasUsed": "2638018",
     "input": "deprecated",
     "confirmations": "617628",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1,379,356,335,863.76368528SAITAMAFor0.13236361891368086EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x634ccb596def40fad8dde810a8f98d286a2a5b27",
@@ -4061,7 +4346,10 @@
     "cumulativeGasUsed": "805648",
     "input": "deprecated",
     "confirmations": "565574",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.01EtherFor106,233,625,164.187239583SAITAMAOnUniswap V2"
+    ]
   },
   {
     "address": "0x66f049111958809841bbe4b81c034da2d953aa0c",
@@ -4113,7 +4401,10 @@
     "cumulativeGasUsed": "11459678",
     "input": "deprecated",
     "confirmations": "96478",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x689...689To 0x58e327d64fc77fa36f698989623c3e4f058c8a89 For 0.421721290731619128  ($613.63)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x696713eaba8d603bab45e2c5820ef4c175c7a5e8",
@@ -4139,7 +4430,10 @@
     "cumulativeGasUsed": "14805011",
     "input": "deprecated",
     "confirmations": "83312",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x696...5e8To 0xf570ee664c32a065bf306a11b92fc5059b9bc798 For 10.168066224431713283  ($14,795.15)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x6af1a16fde7346e7729fa921ad2ddf6a462061e2",
@@ -4165,7 +4459,10 @@
     "cumulativeGasUsed": "4043452",
     "input": "deprecated",
     "confirmations": "40",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap59,451,380.44247639535242626STATEFor0.066977546782016529EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x6b58007b960016b2f559dbfd809ac4dcb1febdfe",
@@ -4191,7 +4488,13 @@
     "cumulativeGasUsed": "322237",
     "input": "deprecated",
     "confirmations": "323419",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofPG JIRAVERSE...(PGJ)From0x6e3ebc7786f0b14617bc3cc33a67cf184298879eTo0x6b58007b960016b2f559dbfd809ac4dcb1febdfe",
+      "1of Token ID [1911]",
+      "Transfer ofPG JIRAVERSE...(PGJ)From0x6b58007b960016b2f559dbfd809ac4dcb1febdfeTo0x10f81231879a1038960707d861deb248f5d3957e",
+      "1of Token ID [1911]"
+    ]
   },
   {
     "address": "0x6d660980b00c3405c2dec173cf2259b15572b9b5",
@@ -4217,7 +4520,13 @@
     "cumulativeGasUsed": "355496",
     "input": "deprecated",
     "confirmations": "384",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofStarcatchers(STAR)From0xb294beefe3030b747bbdabbcd24b60ef4173c436To0x6d660980b00c3405c2dec173cf2259b15572b9b5",
+      "1of Token ID [9414]",
+      "Transfer ofStarcatchers(STAR)From0x6d660980b00c3405c2dec173cf2259b15572b9b5To0x28d7c7939197ea0c6e1ac59faa125dadd3048056",
+      "1of Token ID [9414]"
+    ]
   },
   {
     "address": "0x6ee33c4a192118ea664612aec6f7b6e4aef78b87",
@@ -4243,7 +4552,12 @@
     "cumulativeGasUsed": "2690851",
     "input": "deprecated",
     "confirmations": "8593",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap59.505394828938217764LINKFor0.321447303346050849EtherOnUniswap V3",
+      "Swap0.296428332813321501EtherFor426.704764USDCOnUniswap V3",
+      "Swap426.704764USDCFor425.65927774681906489FEIOnUniswap V3"
+    ]
   },
   {
     "address": "0x72bd67d7406d0c490b0ad0b8968f4beccdd494db",
@@ -4269,7 +4583,10 @@
     "cumulativeGasUsed": "9162816",
     "input": "deprecated",
     "confirmations": "2159761",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x72b...4dBTo 0x74894e6a1f6be0d967d70c90ec48993877d0c36a For 9.3451  ($13,597.68)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x731ea79a1b2b90683507da2aab498bd8ff8f7ff1",
@@ -4295,7 +4612,10 @@
     "cumulativeGasUsed": "25987547",
     "input": "deprecated",
     "confirmations": "817164",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x731...ff1To MEV Bot: 0x6aF...1e2 For 2  ($2,910.12)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x7436a14a8dbf6eba14f114cb71a3b6d4527b222a",
@@ -4347,7 +4667,10 @@
     "cumulativeGasUsed": "350012",
     "input": "deprecated",
     "confirmations": "2077228",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.158826EtherFor0.294875472235030606vETH2OnSushiswap"
+    ]
   },
   {
     "address": "0x77b285fbdb277e53ed29c9dda7c0aa6f2591b09d",
@@ -4373,7 +4696,11 @@
     "cumulativeGasUsed": "1443085",
     "input": "deprecated",
     "confirmations": "17684",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap1.31EtherFor1,452,350.542957944981105766wOMIOnUniswap V2",
+      "Swap1,452,350.542957944981105766OMIFor1.347858895935767416EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0x793ff66b5435a6de9d6d7e70c4c68522e8cd24e1",
@@ -4399,7 +4726,11 @@
     "cumulativeGasUsed": "723005",
     "input": "deprecated",
     "confirmations": "552874",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "TRANSFER \u00a00.049243165984325484 Ether From Wrapped Ether To  MEV Bot: 0x793...4E1",
+      "TRANSFER \u00a00.049243165984325484 Ether From MEV Bot: 0x793...4E1 To  0x971ac48e6f904406edbc22687ed92bc8966fe551"
+    ]
   },
   {
     "address": "0x79dd6397b1ce40d6ac14f361ff9f9836d0cff6e1",
@@ -4451,7 +4782,10 @@
     "cumulativeGasUsed": "2348470",
     "input": "deprecated",
     "confirmations": "613621",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x7c2...535To 0x64a52b6c34faadefb007f5f050b469747624d8cf For 6,199.194468127928768178  ($6,199.19)Dai Stableco... (DAI)"
+    ]
   },
   {
     "address": "0x7cf09d7a9a74f746edcb06949b9d64bcd9d1604f",
@@ -4503,7 +4837,10 @@
     "cumulativeGasUsed": "567605",
     "input": "deprecated",
     "confirmations": "729938",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap14.843328636608927567EtherFor14.5rETHOnUniswap V3"
+    ]
   },
   {
     "address": "0x811213d2d0e26ecf65714074cef59119dd7f36d9",
@@ -4529,7 +4866,13 @@
     "cumulativeGasUsed": "20048251",
     "input": "deprecated",
     "confirmations": "846768",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Liquidator Repay95.642247913671425136EtherToAave Protocol V2",
+      "Liquidation288,910.669336USDCOnAave Protocol V2",
+      "Swap279,226.777656USDCFor95.642247913671425136EtherOnUniswap V2",
+      "Swap9,683.89168USDCFor3.310066267935386864EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x81153f0889ab398c4acb42cb58b565a5392bba95",
@@ -4555,7 +4898,10 @@
     "cumulativeGasUsed": "874204",
     "input": "deprecated",
     "confirmations": "31",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap337,209.29ANMLFor0.176698067041936072EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x815b2ad3c669df996fc55a9472ad251312476898",
@@ -4581,7 +4927,13 @@
     "cumulativeGasUsed": "2580163",
     "input": "deprecated",
     "confirmations": "951049",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofArcade Land(ARCLAN...)From0x577e7f1818f5acfcbf8e26c74ac703093e20d8f5To0x815b2ad3c669df996fc55a9472ad251312476898",
+      "1of Token ID [1457]",
+      "Transfer ofArcade Land(ARCLAN...)From0x815b2ad3c669df996fc55a9472ad251312476898To0x953c794014b2b1218f6751367dd29c691502b801",
+      "1of Token ID [1457]"
+    ]
   },
   {
     "address": "0x828a2d99bb1a31ca0eba80f3e01db8dae652a1e3",
@@ -4640,7 +4992,14 @@
     "cumulativeGasUsed": "1159048",
     "input": "deprecated",
     "confirmations": "90517",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Liquidator Repay49.533593USDCToAave Protocol V2",
+      "Liquidation35.594206659954735681xSUSHIOnAave Protocol V2",
+      "Swap35.594206659954735681xSUSHIFor0.034657166799805416EtherOnSushiswap",
+      "Swap0.031431093650347202EtherFor275.795386889439278748DYPOnUniswap V2",
+      "Swap275.795386889439278748DYPFor49.533593USDCOnUniswap V2"
+    ]
   },
   {
     "address": "0x84783f7e102ac1e28abe254c7c27d4c01891ca2e",
@@ -4673,7 +5032,14 @@
     "cumulativeGasUsed": "2188196",
     "input": "deprecated",
     "confirmations": "720237",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap3,000EtherFor9,143,221.416380545295906765PENDLEOnSushiswap",
+      "Remove0.000000000000003036PENDLEAnd0.000000000000000012EtherLiquidity FromSushiswap",
+      "Swap9.629764905444941513EtherFor2,246.663434735889418324PENDLEOnSushiswap",
+      "Swap2,246.66343473588942136PENDLEFor0.0000000000000002OT-SLP-29DEC2022OnSushiswap",
+      "Swap9,143,221.416380545295906765PENDLEFor3,008.182901858643848532EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x8698d9d5ea99809c00426484a80be2add4e54581",
@@ -4725,7 +5091,10 @@
     "cumulativeGasUsed": "2910947",
     "input": "deprecated",
     "confirmations": "68393",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap65.045092011008994045CRVFor0.044367877030420306EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x8a9bc155740b096575bfe1ee80f5783eefbbf1d2",
@@ -4751,7 +5120,14 @@
     "cumulativeGasUsed": "852550",
     "input": "deprecated",
     "confirmations": "938216",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap358.181275813OHMFor2.803792406297888073EtherOnSushiswap",
+      "Swap2.803792406297888073EtherFor8,707.261242USDCOnSushiswap",
+      "Swap8,252.258457USDCFor53.446786589OT-wxBTRFLY-21APR2022OnSushiswap",
+      "Swap53.446252127BTRFLYFor358.181275813OHMOnSushiswap",
+      "Swap394.728819USDCFor0.126355163821690529EtherOnSushiswap"
+    ]
   },
   {
     "address": "0x8b46e02e2ce66c041ddebeed9734a8deebf1a3ab",
@@ -4777,7 +5153,10 @@
     "cumulativeGasUsed": "1664010",
     "input": "deprecated",
     "confirmations": "106016",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.6447900000000001EtherFor280,230.785257428F9OnUniswap V2"
+    ]
   },
   {
     "address": "0x8c3635482f23bd108cfd941736fd15fbd59d53bc",
@@ -4803,7 +5182,14 @@
     "cumulativeGasUsed": "4289053",
     "input": "deprecated",
     "confirmations": "24376",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap76,917.3368DAIFor76,917.336898309703897296FEIOn0x Protocol",
+      "Swap14,519.1382616658597915BNTFor8,571.270207909390706634DAIOn0x Protocol",
+      "Swap69,225.603208478733507567FEIFor69,214.107747USDCOnUniswap V3",
+      "Swap584.305522966434637179DAIFor1,142.013937421580290984BNTOnBancor",
+      "Swap1,142.013937421580290984BNTFor0.340864180416505864EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0x8e60b2b96ea901beb2cafd79b8d0ed249a5efd95",
@@ -4829,7 +5215,10 @@
     "cumulativeGasUsed": "8736703",
     "input": "deprecated",
     "confirmations": "327071",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x8e6...d95To 0x190dba0be2af642985602402ef33128730b4a4ad For 2  ($2,910.12)Wrapped Ethe... (WETH)"
+    ]
   },
   {
     "address": "0x8f44e22ac221cc25a46289d1c307d4f34a4dd6c2",
@@ -4855,7 +5244,13 @@
     "cumulativeGasUsed": "322810",
     "input": "deprecated",
     "confirmations": "8092",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Transfer ofOpenSea Shar...(OPENST...)From0xf349035b517f3ed3624d82b0df6deea8907e9866To0x8f44e22ac221cc25a46289d1c307d4f34a4dd6c2",
+      "1of Token ID [108025279282686658453897007890629891637526310304717906993258638307401712795702]",
+      "Transfer ofOpenSea Shar...(OPENST...)From0x8f44e22ac221cc25a46289d1c307d4f34a4dd6c2To0x120e4809a78cfc042bcb090b8daf6b40963626a4",
+      "1of Token ID [108025279282686658453897007890629891637526310304717906993258638307401712795702]"
+    ]
   },
   {
     "address": "0x911605012f87a3017322c81fcb4c90ada7c09116",
@@ -4907,7 +5302,10 @@
     "cumulativeGasUsed": "823723",
     "input": "deprecated",
     "confirmations": "1401259",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x9aa...Dc9To 0xe7f41c9070115743c7cbb2b37bad2ce2cc4deb0f For 191.551842  ($191.74)Tether USD (USDT)"
+    ]
   },
   {
     "address": "0x9be4dd4724d9f13cc05ce25416d9f9bfccd443e0",
@@ -4933,7 +5331,16 @@
     "cumulativeGasUsed": "1630464",
     "input": "deprecated",
     "confirmations": "1006190",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Borrow8.0003EtherFromdYdX",
+      "Swap0.98MEEBFor4.10968359622707664EtherOnSushiswap",
+      "Repay8.000300000000000002EtherTodYdX",
+      "Transfer ofMeebits(\u2687)From0xd6704486175e17e752c84448a7aa2b3b1f4e799fTo0x9be4dd4724d9f13cc05ce25416d9f9bfccd443e0",
+      "1of Token ID [2646]",
+      "Transfer ofMeebits(\u2687)From0x9be4dd4724d9f13cc05ce25416d9f9bfccd443e0To0x641927e970222b10b2e8cdbc96b1b4f427316f16",
+      "1of Token ID [2646]"
+    ]
   },
   {
     "address": "0x9e244643b91ecc1498718cb4f5d22d14a9b121a1",
@@ -4959,7 +5366,13 @@
     "cumulativeGasUsed": "11502478",
     "input": "deprecated",
     "confirmations": "3251018",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0x9e2...1a1To MEV Bot: 0xd59...a97 For 110,083.285956  ($110,193.37)Tether USD (USDT)",
+      "From MEV Bot: 0x9e2...1a1To MEV Bot: 0xd59...a97 For 74.279932685212117646  ($108,081.76)Wrapped Ethe... (WETH)",
+      "From MEV Bot: 0x9e2...1a1To MEV Bot: 0xd59...a97 For 50,277.75051  ($50,277.75)USD Coin (USDC)",
+      "From MEV Bot: 0x9e2...1a1To MEV Bot: 0xd59...a97 For 28,443.226190913571020773  ($28,443.23)Dai Stableco... (DAI)"
+    ]
   },
   {
     "address": "0x9e9346e082d445f08fab1758984a31648c89241a",
@@ -4985,7 +5398,11 @@
     "cumulativeGasUsed": "27238718",
     "input": "deprecated",
     "confirmations": "470205",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From 0x0554f068365ed43dcc98dcd7fd7a8208a5638c72To MEV Bot: 0x9E9...41A For 252.819549059271617  ($62.92)LooksRare To... (LOOKS)",
+      "From MEV Bot: 0x9E9...41ATo 0xc5320d697fd3b4aeab6c2c7da5e5c7effbd9fc34 For 252.819549059271617  ($62.92)LooksRare To... (LOOKS)"
+    ]
   },
   {
     "address": "0xa1ba2e31d3b58c44293e54a90aaa817b14304e07",
@@ -5011,7 +5428,10 @@
     "cumulativeGasUsed": "12783108",
     "input": "deprecated",
     "confirmations": "3107",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap40.853016704592587939USDIFor0.027932355735478365EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xa75af537fb853bb432f6a51d47d70e349fffc6ba",
@@ -5037,7 +5457,13 @@
     "cumulativeGasUsed": "1955692",
     "input": "deprecated",
     "confirmations": "522819",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.913444665855037184EtherFor5,685.180754271868411732NUOnUniswap V2",
+      "Swap5,685.180754271868411732NUFor214,895.411099076665874615RNGOnUniswap V3",
+      "Swap214,895.411099076665874615RNGFor3,483.757006192849994919ZRXOnUniswap V3",
+      "Swap3,483.757006192849994919ZRXFor0.948183178709522502EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0xac9df97f9cd7a5f66913d107cddd00f40ac9ab4c",
@@ -5063,7 +5489,10 @@
     "cumulativeGasUsed": "5419945",
     "input": "deprecated",
     "confirmations": "770046",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "From MEV Bot: 0xac9...b4cTo 0x290c01b0d557c0545ce7f8632d81306c568c327b For 2,922.93351197321  ($727.49)LooksRare To... (LOOKS)"
+    ]
   },
   {
     "address": "0xacd4ec996aad815efe72a11944188c6db6c30176",
@@ -5089,7 +5518,14 @@
     "cumulativeGasUsed": "2696875",
     "input": "deprecated",
     "confirmations": "22559",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Repay122,183.534219817087803392DAIToAave Protocol V2",
+      "Swap1,372,753.853627USDCFor1,372,608.011711USDTOnUniswap V3",
+      "Swap134.146373USDCFor0.083650581835732782EtherOnUniswap V3",
+      "DisableEtheras Collateral onAave Protocol V2",
+      "Withdraw98.808666511705139924EtherFromAave Protocol V2"
+    ]
   },
   {
     "address": "0xaf9642bc3b0daf66a8930d17b99865944df4d60b",
@@ -5115,7 +5551,10 @@
     "cumulativeGasUsed": "2329529",
     "input": "deprecated",
     "confirmations": "841",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap0.013499865XMONFor0.239697150332858392EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xb3fcd22ffd34d75c979d49e2e5fb3a3405644831",
@@ -5141,7 +5580,10 @@
     "cumulativeGasUsed": "362623",
     "input": "deprecated",
     "confirmations": "276731",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap4,395.355824013596939219UNIQFor0.305310193301798186EtherOnUniswap V2"
+    ]
   },
   {
     "address": "0xb4247d5978060387c0fe91d13a90d5711f65b7ce",
@@ -5167,7 +5609,14 @@
     "cumulativeGasUsed": "1992242",
     "input": "deprecated",
     "confirmations": "456",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Borrow71,842.9521USDCFromdYdX",
+      "Swap71,842.9521USDCFor49.319021751641170313EtherOnUniswap V3",
+      "Swap49.391614209487497006EtherFor71,876.758672USDCOnUniswap V3",
+      "Executed Swap49.827382641299190802stETHFor71,876.758672USDCWith0x Protocol",
+      "Repay71,842.952102USDCTodYdX"
+    ]
   },
   {
     "address": "0xb4990d3044641456a2509ed0bd709f1176a6a7af",
@@ -5193,7 +5642,12 @@
     "cumulativeGasUsed": "2319773",
     "input": "deprecated",
     "confirmations": "610186",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap7.166384195352579826EtherFor10,073.285715834827210722agEUROnUniswap V3",
+      "Swap10,073.285715834827210722agEURFor10,581.577922USDCOnUniswap V3",
+      "Swap10,581.577922USDCFor7.18057543825686206EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0xb5c7ad3cb6506c65da01f2fac2e667dcb9e66e9c",
@@ -5252,7 +5706,11 @@
     "cumulativeGasUsed": "1614760",
     "input": "deprecated",
     "confirmations": "389904",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Swap4.6EtherFor4,762.272953109039445197SUSHIOnSushiswap",
+      "Swap3,598.9472019972792968xSUSHIFor4.620939344064845943EtherOnSushiswap"
+    ]
   },
   {
     "address": "0xba71b56fd0b590ed2a6992ed57a34c1391940513",
@@ -5278,7 +5736,12 @@
     "cumulativeGasUsed": "1157309",
     "input": "deprecated",
     "confirmations": "5",
-    "balanceUSD": 0.0
+    "balanceUSD": 0.0,
+    "actions": [
+      "Supply83.593127667659230747stETHToAave Protocol V2",
+      "Borrow52.456878119025273034EtherFromAave Protocol V2",
+      "Swap31icETHFor30.655846820915331324EtherOnUniswap V3"
+    ]
   },
   {
     "address": "0xbb5acd74d889da9102d97d5a14de49e6ce710851",
