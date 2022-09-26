@@ -2,8 +2,8 @@
   {
     "address": "0x9799b475dec92bd99bbdd943013325c36157f383",
     "label": "Fund: 0x979...383",
-    "balance": 5.42526307,
-    "tx": 135438,
+    "balance": 9.94627808,
+    "tx": 135489,
     "blockNumber": "15595412",
     "timeStamp": "1663928435",
     "hash": "0xc4588b68c7b3cdd28ab742a60e277474107daedc6e045479988fd4eace6a35c8",
@@ -22,8 +22,8 @@
     "gasUsed": "2345567",
     "cumulativeGasUsed": "12488818",
     "input": "deprecated",
-    "confirmations": "18470",
-    "balanceUSD": 7025.3359072351
+    "confirmations": "22014",
+    "balanceUSD": 12916.833491372801
   },
   {
     "address": "0x000000000085359dbc0eb45911e5f3f7a532a07e",
@@ -48,40 +48,40 @@
     "gasUsed": "123167",
     "cumulativeGasUsed": "1150844",
     "input": "deprecated",
-    "confirmations": "1841193",
+    "confirmations": "1844736",
     "balanceUSD": 0.0
   },
   {
     "address": "0xeb4c5ab9b36437f969888be99af42fc9087005a5",
     "label": "AMB Flashbot Helper",
     "balance": 0,
-    "tx": 1857,
+    "tx": 1858,
     "balanceUSD": 0.0
   },
   {
     "address": "0x0000000000036414940324055c43e75f56b7d016",
     "label": "MEV Bot: 0x000...016",
     "balance": 0,
-    "tx": 6946,
-    "blockNumber": "15613874",
-    "timeStamp": "1664150963",
-    "hash": "0xed50484300062e91265c6a6211b46e1832eb15cb09c93f1211b633a0c389e013",
-    "nonce": "6953",
-    "blockHash": "0x351c514f32ea28bcb70787f61752a797f234df409b80d4cabfe4545cbbc087bb",
-    "from": "0x0000000000036414940324055c43e75f56b7d016",
+    "tx": 7027,
+    "blockNumber": "15617376",
+    "timeStamp": "1664193227",
+    "hash": "0xac1adef4999b2c90e83a9023a0bd1ceaebe968e188da0a0a6a0984fcb2aee46a",
+    "nonce": "7034",
+    "blockHash": "0x8525462d416e871d2e5293eed7fd2ff5be939dd339f10d63c524c2f41d9e66bb",
+    "from": "0x60a39010e4892b862d1bb6bdde908215ac5af6f3",
     "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "to": "0x0883012fd201384f03ca6f68d025e934328c3437",
-    "value": "7086868020066371",
+    "to": "0x0000000000036414940324055c43e75f56b7d016",
+    "value": "175631822808763426",
     "tokenName": "Wrapped Ether",
     "tokenSymbol": "WETH",
     "tokenDecimal": "18",
-    "transactionIndex": "110",
-    "gas": "261667",
-    "gasPrice": "5880997914",
-    "gasUsed": "186399",
-    "cumulativeGasUsed": "10614856",
+    "transactionIndex": "194",
+    "gas": "323841",
+    "gasPrice": "3747892021",
+    "gasUsed": "215820",
+    "cumulativeGasUsed": "17707957",
     "input": "deprecated",
-    "confirmations": "9",
+    "confirmations": "50",
     "balanceUSD": 0.0
   },
   {
@@ -107,14 +107,14 @@
     "gasUsed": "389085",
     "cumulativeGasUsed": "1269470",
     "input": "deprecated",
-    "confirmations": "30786",
+    "confirmations": "34329",
     "balanceUSD": 0.0
   },
   {
     "address": "0x000000000000084e91743124a982076c59f10084",
     "label": "MEV Bot: 0x000...084",
     "balance": 0,
-    "tx": 251087,
+    "tx": 251089,
     "blockNumber": "15613557",
     "timeStamp": "1664147135",
     "hash": "0x9fe64722ae0ab39e26ec7115cc1e3ba6e340ca10ebf9b0118017fad00c1e265e",
@@ -133,7 +133,7 @@
     "gasUsed": "99932",
     "cumulativeGasUsed": "10324307",
     "input": "deprecated",
-    "confirmations": "326",
+    "confirmations": "3869",
     "balanceUSD": 0.0
   },
   {
@@ -159,7 +159,7 @@
     "gasUsed": "253510",
     "cumulativeGasUsed": "295510",
     "input": "deprecated",
-    "confirmations": "140132",
+    "confirmations": "143676",
     "balanceUSD": 0.0
   }
 ]
