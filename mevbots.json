@@ -22,8 +22,8 @@
     "gasUsed": "272443",
     "cumulativeGasUsed": "505909",
     "input": "deprecated",
-    "confirmations": "2119",
-    "balanceUSD": 11766.481498242
+    "confirmations": "9285",
+    "balanceUSD": 11733.6895021494
   },
   {
     "address": "0x9799b475dec92bd99bbdd943013325c36157f383",
@@ -48,8 +48,8 @@
     "gasUsed": "434297",
     "cumulativeGasUsed": "934702",
     "input": "deprecated",
-    "confirmations": "23482",
-    "balanceUSD": 11006.713501989001
+    "confirmations": "30649",
+    "balanceUSD": 10976.0389026023
   },
   {
     "address": "0x000000000085359dbc0eb45911e5f3f7a532a07e",
@@ -74,7 +74,7 @@
     "gasUsed": "123167",
     "cumulativeGasUsed": "1150844",
     "input": "deprecated",
-    "confirmations": "2435200",
+    "confirmations": "2442367",
     "balanceUSD": 0.0
   },
   {
@@ -88,26 +88,26 @@
     "address": "0x0000000000036414940324055c43e75f56b7d016",
     "label": "MEV Bot: 0x000...016",
     "balance": 0,
-    "tx": 10296,
-    "blockNumber": "16206860",
-    "timeStamp": "1671309575",
-    "hash": "0x30a8503c583d8dc7cdf5114c85495858d347c74198d32743b983e3684ff0bb63",
-    "nonce": "10303",
-    "blockHash": "0x9eaec38789c344d51c177a389ce9a840a8471d1992c7be474541058051f2bab3",
-    "from": "0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74",
+    "tx": 10310,
+    "blockNumber": "16214569",
+    "timeStamp": "1671402563",
+    "hash": "0x2cde87255e261fe68290a9f6f0cf74a36e45b38fd2c42692abcedde6748c3007",
+    "nonce": "10317",
+    "blockHash": "0x624aa00c7dfd813871684d94931124a7f698ec402e6ce3d1e6704972b5aaecb1",
+    "from": "0x29baa9ebcce8552b030bc1138d5d64893018b329",
     "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "to": "0x0000000000036414940324055c43e75f56b7d016",
-    "value": "211045516328491266",
+    "value": "159045538456156482",
     "tokenName": "Wrapped Ether",
     "tokenSymbol": "WETH",
     "tokenDecimal": "18",
-    "transactionIndex": "12",
-    "gas": "259133",
-    "gasPrice": "11873543566",
-    "gasUsed": "177473",
-    "cumulativeGasUsed": "1388781",
+    "transactionIndex": "7",
+    "gas": "200947",
+    "gasPrice": "11183682516",
+    "gasUsed": "124715",
+    "cumulativeGasUsed": "818461",
     "input": "deprecated",
-    "confirmations": "1030",
+    "confirmations": "488",
     "balanceUSD": 0.0
   },
   {
@@ -133,7 +133,7 @@
     "gasUsed": "389085",
     "cumulativeGasUsed": "1269470",
     "input": "deprecated",
-    "confirmations": "624793",
+    "confirmations": "631960",
     "balanceUSD": 0.0
   },
   {
@@ -159,7 +159,7 @@
     "gasUsed": "94991",
     "cumulativeGasUsed": "5239895",
     "input": "deprecated",
-    "confirmations": "31799",
+    "confirmations": "38966",
     "balanceUSD": 0.0
   }
 ]
